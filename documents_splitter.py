@@ -4,7 +4,7 @@ original_document_names = [
     "act_1.txt", "act_2.txt", "act_3.txt"
 ]
 
-original_document_general_path = "./documents/original_texts/"
+original_document_general_path = "./documents/original_texts/acts"
 
 def split_by_headers(filename):
     # Extract the original document name (without extension) from the path

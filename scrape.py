@@ -111,13 +111,32 @@ async def ascrape_playwright(url, tags: list[str] = ["h1", "h2", "h3", "p", "li"
 
 # TESTING
 if __name__ == "__main__":
-    url = "https://baldursgate3.wiki.fextralife.com/Game+Progress+Route#Forest"
+    urls = [
+        "https://baldursgate3.wiki.fextralife.com/Astarion",
+        "https://baldursgate3.wiki.fextralife.com/Lae'zel",
+        "https://baldursgate3.wiki.fextralife.com/Gale",
+        "https://baldursgate3.wiki.fextralife.com/Shadowheart",
+        "https://baldursgate3.wiki.fextralife.com/Wyll",
+        "https://baldursgate3.wiki.fextralife.com/Karlach",
+        "https://baldursgate3.wiki.fextralife.com/The+Dark+Urge"
+    ]
+    
+    names = [
+        "astarion",
+        "laezel",
+        "gale",
+        "shadowheart",
+        "wyll",
+        "karlach",
+        "dark_urge"
+    ]
 
     async def scrape_playwright():
-        return await ascrape_playwright(url)
+        for name, url in zip(names, urls):
+            print(f"Scraping {url} for {name}")
+            content = await ascrape_playwright(url)
+            save_to_txt(content, f"./documents/original_texts/{name}.txt")
 
-    content = asyncio.run(scrape_playwright())
+    asyncio.run(scrape_playwright())
     
-    # pprint.pprint(content)
     
-    # save_to_txt(content, "npc.txt")

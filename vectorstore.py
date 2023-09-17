@@ -24,27 +24,32 @@ BALDURS_GATE_3_ALL_ACTS_METADATA = [
   {
     "act": 1,
     "documents_path": "./documents/knowledge_base/act_1.txt",
-    "description": "Tips and guides for Baldur's Gate 3's Act 1."
+    "description": "Tips and guides for Baldur's Gate 3's Act 1.",
+    "type": "quest"
   },
   {
     "act": 2,
     "documents_path": "./documents/knowledge_base/act_2.txt",
-    "description": "Tips and guides for Baldur's Gate 3's Act 2."
+    "description": "Tips and guides for Baldur's Gate 3's Act 2.",
+    "type": "quest"
   },
   {
     "act": 3,
     "documents_path": "./documents/knowledge_base/act_3.txt",
-    "description": "Tips and guides for Baldur's Gate 3's Act 3."
+    "description": "Tips and guides for Baldur's Gate 3's Act 3.",
+    "type": "quest"
   },
   {
     "act": 0,
     "documents_path": "./documents/knowledge_base/companions.txt",
-    "description": "Tips and guides for Baldur's Gate 3's player companions."
+    "description": "Tips and guides for Baldur's Gate 3's player companions.",
+    "type": "character"
   },
   {
     "act": 0,
     "documents_path": "./documents/knowledge_base/npcs.txt",
-    "description": "Tips and guides for Baldur's Gate 3's NPCs."
+    "description": "Tips and guides for Baldur's Gate 3's NPCs.",
+    "type": "character"
   }
 ]
 
@@ -86,7 +91,7 @@ if quests_guide_collection.count() == 0: # This means the Chroma collection (or 
         metadata={
             "act": metadata["act"],
             "description": metadata["description"],
-            "region": filename,
+            "name": os.path.splitext(filename)[0],
             "document_path": metadata["documents_path"] + "/" + filename,
             "category": "quest",
         },
