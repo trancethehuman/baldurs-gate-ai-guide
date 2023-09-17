@@ -1,6 +1,6 @@
 # NAUTILOID
 
-## Objectives
+## Quests
 - Find a way off the Nautiloid
 - Reach the Helm
 - Connect the nerves of the transponder.
@@ -13,7 +13,7 @@ Now make your way to the Helm (X:-20 Y:-389) and once you reach the area, you wi
 
 # RAVAGED BEACH
 
-## Objectives
+## Quests
 - Find a way to remove the mind flayer parasite
 - Find the healer Nettie
 - Find Zorru
@@ -37,7 +37,7 @@ Now go outside the door you came from, stick to the left side and you'll see ano
 
 # EMERALD GROVE
 
-## Objectives
+## Quests
 - Battle at the Gates
 - Get help from Auntie Ethel
 - Finding Healer Nettie.
@@ -67,7 +67,7 @@ Now that you've attempted to remove the parasite from your brain and rest, at an
 
 # FOREST
 
-## Objectives
+## Quests
 - Speak to Andrick, Brynna, and Edowin
 
 You will most likely come across the Forest after exploring the Emerald Grove. The Forest can be found west of the Emerald Grove Environs Waypoint at around (X:170, Y:416). You can also reach the Forest through the Underground Passage connecting the area to the Emerald Grove. Head north up the dirt path to (X:143, Y:440), and you'll find two people looking down on an injured dwarf. When you approach them, a cutscene will begin and you'll learn that the lady's name is Brynna, the man's name is Andrick, and the dying dwarf on the ground is Edowin.
@@ -96,9 +96,9 @@ Though not related to the Main Quest story, there are several other places of no
 
 There are two large areas that connect to the Forest - the Sunlit Wetlands/Putrid Bog can be found in the south at (X:50, Y:314), while the Blighted Village can be accessed from a village entrance in the western part of the Forest at (X:65, Y:404).
 
-# SUNLIT WETLANDS/PUTRID BOG
+# SUNLIT WETLANDS & PUTRID BOG
 
-## Objectives
+## Quests
 - Meet Auntie Ethel at the Sunlit Wetlands
 - Find Auntie Ethel at the Riverside Teahouse
 
@@ -116,7 +116,7 @@ Directly southwest of the Riverside Teahouse Waypoint, you'll find Gandrel, a Gu
 
 # BLIGHTED VILLAGE
 
-## Objectives
+## Quests
 - Rescue the Gnome
 - Search the Cellar
 
@@ -134,7 +134,7 @@ After completing the Whispering Depths, you can return to the house next to the 
 
 # THE RISEN ROAD
 
-## Objectives
+## Quests
 - Enter The Risen Road
 - Speak with the Wannabe Paladins
 - Locate Karlach
@@ -145,25 +145,25 @@ After completing the Whispering Depths, you can return to the house next to the 
 To reach the map's northern part, take the Broken Bridge path from the south, specifically the Blighted Village. The bridge has some damage, but it's manageable to guide your team to jump across. Upon reaching the edge of the Broken Bridge, you'll be approximately at coordinates (X:-8, Y:494).
 
 After crossing the bridge, you'll spot Mangled Corpse on the right (X:-1, Y:516). Approach the corpse and interact with the surviving Hyena. In a cutscene, the Hyena seems in pain, offering you various dialogue options:
+- Try to comfort the Hyena.
+- Step back to watch what happens.
+- [Melee Attack] Strike while the beast is vulnerable.
+- Leave.
 
-Try to comfort the Hyena.
-Step back to watch what happens.
-[Melee Attack] Strike while the beast is vulnerable.
-Leave.
 Opting to comfort the Hyena will reveal a Newborn Gnoll emerging, leading to a Gnoll battle. After defeating them, you can loot the area, finding items from the fallen Gnolls. Amidst the looting, you'll notice a letter titled "To the Good Godly Folk of Faerun." Another letter rests atop a nearby mountain, labeled "An Open letter on oppression and Peacocks." A third letter lies to the right of the first one, titled "As per my last letter." Adjacent to this last letter, an important corpse holds the Quest Item "Shipment Orders," initiating the "Find the Missing Shipment" quest and updating your journal.
 
 Starting from your present location (X:71 Y:633), head Southeast until you find a Toll Collector's Key Item at (X:98 Y:523). Upon obtaining the item, head North West to reach a new waypoint. Proceed left to a small village with deceased bodies. Inside a house, meet Anders and select these options:
+- Who - or what - attacked you?
+- What is this place?
+- Rest easy. I'll only stay a short time.
 
-Who - or what - attacked you?
-What is this place?
-Rest easy. I'll only stay a short time.
 Upon selecting the initial choice, Anders shares attack details, unveiling additional dialogue options:
+- Where is this devil?
+- It isn't like a devil to use their brawn instead of their brains.
+- Let me help. I can hunt down this monster.
+- I wish you and yours well, but I must be on my way soon.
+- Now that she softened you up, I'll finish you off.
 
-Where is this devil?
-It isn't like a devil to use their brawn instead of their brains.
-Let me help. I can hunt down this monster.
-I wish you and yours well, but I must be on my way soon.
-Now that she softened you up, I'll finish you off.
 Choosing the second option, Anders agrees. Then, revert to the first choice, and he provides the Monster's location. He also offers the Sword of Justice as a reward for Monster defeat, but you can decline. Options for this are:
 
 Very Well, I'll bring you her head.
@@ -180,13 +180,14 @@ Try to Douse the flames.
 She looks dangerous - watch her carefully
 These are no natural flames - prepare to fight.
 I know you - you're the monster the blade of frontiers is hunting.
-Opt for the first choice, and she confirms her well-being. Karlach recognizes you, asking about the Paladins. Inquire about her flame control. As you converse, shared visions unfold. Explain the tadpole connection in your heads. Karlach briefly remarks on visions, introducing herself. Respond with:
 
-I'm (name)
-Karlach. I met someone named Wyll who was hunting you. He said you were a devil.
-I'm your key to curing that tadpole - eventually.
-I'm not interested in making friends.
-Here to take your head.
+Opt for the first choice, and she confirms her well-being. Karlach recognizes you, asking about the Paladins. Inquire about her flame control. As you converse, shared visions unfold. Explain the tadpole connection in your heads. Karlach briefly remarks on visions, introducing herself. Respond with:
+- I'm (name)
+- Karlach. I met someone named Wyll who was hunting you. He said you were a devil.
+- I'm your key to curing that tadpole - eventually.
+- I'm not interested in making friends.
+- Here to take your head.
+
 Choosing the second option, she rationalizes Wyll's misconception. She wants to prove herself and highlights prowess in demon slaying during the Blood War. Evil beings, masquerading as Paladins of Tyr, prompt her quest. Choose these:
 
 Let's send them back to where they came from.
@@ -231,7 +232,7 @@ Select option 2. With enough Charisma, Lae'zel plays along, gaining Voss's appro
 
 # GOBLIN CAMP
 
-## Objectives
+## Quests
 - Find the Goblin Camp
 - Infiltrate the camp
 - Rescue Volo
@@ -308,7 +309,7 @@ Choosing Perfomance will require you to succeed the Charisma with a 15 DC Check 
 
 # SHATTERED SANCTUM
 
-## Objectives
+## Quests
 - Rescue Liam
 - Free Volo
 - Find Loviatar
@@ -356,9 +357,10 @@ Proceed to the locked Heavy Oak Doors at (X:310 Y:-25). Be careful as opening th
 
 Next, return to Halsin who has asked for your help in defeating the goblins to restore order and protect his grove. You will find him at (X394 Y:-31)., inform him that you have slain all three of the leaders. Now you can invite Halsin to join your party and help you on your quest to get to Moonrise Towers. After this area, return to Druid Grove by using the Waypoints that you have unlocked. The closest will be Emerald Grove Environs and you begin traveling from there to continue your quest with Halsin.
 
+
 # UNDERDARK
 
-## Objectives
+## Quests
 - Find entrance to Underdark from Shattered Sanctum
 - Destroy the moonstone protecting the temple
 - Interact with the Restless Myconid and the colony
@@ -447,7 +449,7 @@ He tells you that he owns a Ring of Shielding, which prevents elder brains from 
 
 # GRYMFORGE
 
-# Objectives
+## Objectives
 - Reaching the Grymforge
 - The Dig Site First Visit
 - Find Explosives

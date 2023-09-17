@@ -1,6 +1,6 @@
 # RUINED BATTLEFIELD
 
-## Objectives
+## Quests
 - Reach Moonrise Towers
 - Find a Way to Protect Yourself from the Curse
 - Reach Last Light Inn
@@ -12,24 +12,23 @@ Exit the camp to find yourself back at the castle ruins. Past where Elminster wa
 After the short scene, follow the path to the south. You’ll eventually have to cross some shadow-cursed ground, which will cause you to be afflicted with the Shadow Curse as well. Use a Torch or cast anything that can light your way in order to prevent yourself from being afflicted. Shadowheart seems to be immune to the curse, as a chosen of Shar. 
 
 Head back north and then cross the bridge now to the southwest. The path up to the structure further south leads to a dead end and a skeleton you could loot for some jewelry and an Unsent Letter. Before you go down, you might want to light the brazier to give you a boost for later. Head down to the west to bump into the Harpers. Despite your best efforts at subterfuge, their leader Lassandra will spot you and ask who’s there. You’ll have the following choices to respond with:
+- Lower your weapon first.
+- My name is Tav. Who are you?
+- A nightmare in the dark.
+- Back away from them, palms up
 
-Lower your weapon first.
-My name is Tav. Who are you?
-A nightmare in the dark.
-Back away from them, palms up
 Choosing the first and second choice will have them ask you to come forward with your hands up. You’ll roll a Perception check to see that it’s safe to do so. Unfortunately, one of them fails to move close enough with the torchers and gets taken by something in the dark. He emerges afterward, corrupted by the shadows. You’ll have the following dialogue options to choose from form here:
-
 NOTE: Some dialogue interactions will have additional options depending on the Race or Class of your character.
+- Move. I’ll take care of this.
+- Get ready to fight.
+- [WARLOCK] His soul… consumed by darkness. Not a good sign.
+- Run
 
-Move. I’ll take care of this.
-Get ready to fight.
-[WARLOCK] His soul… consumed by darkness. Not a good sign.
-Run
 Choosing any of these options aside from the last one will initiate a combat engagement. You’ll be up against seven Enemies - six Shadows, and a corrupted Yonas, and will have the help of the Harpers. They shouldn’t be too hard but just don’t forget that you’ll get afflicted with the curse if you aren’t near a source of light. Any ranged allies can safely fight from the lit brazier in the higher structure back to the south. There will be a Shadow there though, so they will still have to be careful. After the fight, Lassandra will show you where you can go that’s safe from the curse. You’ll have the following choices to reply with:
+- ‘Safe place’? You mean somewhere the shadows can’t penetrate?
+- I’ll follow in a moment.
+- Thanks, but I’m heading to Moonrise Towers.
 
-‘Safe place’? You mean somewhere the shadows can’t penetrate?
-I’ll follow in a moment.
-Thanks, but I’m heading to Moonrise Towers.
 Choosing the first will have her explain that the place she mentioned is an inn that’s magically protected. It also seems like traveling deeper in won’t be safe anymore with just torches and light Spells.
 
 Follow the path to the southwest to move further along. You’ll eventually spot a raven on the ground. Your party will roll Arcana checks to see that the raven has been claimed by the shadows. Interacting with it will start a combat engagement against twelve Shadow-Cursed Ravens. They shouldn’t be too hard to get through but you will have the added handicap of being Surprised. After the fight, you can loot the original raven’s body for a note marked “HELP!” There should be a locked Traveler’s Chest atop the roof of the nearby dilapidated house with a lockpicking DC of 10 if you’d like to jump up and get it. Otherwise, continue southwest.
@@ -38,7 +37,7 @@ You’ll eventually get to an intersection. The path on your right to the northw
 
 # LAST LIGHT INN
 
-## Objectives
+## Quests
 - Reach Moonrise Towers
 - Talk to Jaheira
 - Get Help from the Cleric Isobel
@@ -131,10 +130,9 @@ Outside, Jaheira will see the shields melt and ask you what happened. Choosing t
 
  
 
-RUINED BATTLEFIELD
+# RUINED BATTLEFIELD
 
-ruined battlefield11 locations world baldurs gate 3 wiki guide
-
+## Quests
 Reach Moonrise Towers
 Find Stronger Protection from the Shadow Curse
 Take the Drider's Moonlantern
@@ -192,12 +190,11 @@ From the Waypoint, follow the path west all the way to the end. You should find 
 
  
 
-REITHWIN MASONS' GUILD
+# REITHWIN MASONS' GUILD
 
-reithwin town 3 locations world baldurs gate 3 wiki guide
-
-Reach Moonrise Towers
-Investigate the Thorm Mausoleum
+## Quests
+- Reach Moonrise Towers
+- Investigate the Thorm Mausoleum
  
 
 Coming from the eastern entrance, from the Ruined Battlefield, head north along the walls first. In the end, you should be able to find a ladder that will let you climb up and reach a Heavy Chest at (X:-112, Y:0), which contains some potions and valuables. Climb back down and head back toward where you came from, but turn right to enter the paved area at (X:-114, Y:-12). Head inside the door here to a building that has some statues lined up. The table to your immediate right should have a Barkskin Recipe for you to read. If you move forward, there’ll be a pile of bones on top of some concrete. Investigating the plaque below it will inspire you if you have picked the Guild Artisan Background. Head through the door past it to the north and then head to the west side to find an Ornate Wooden Hatch. Enter it to enter the Masons' Guild.
@@ -208,33 +205,25 @@ Head all the way back to where you landed upon entering the hatch. Interact with
 
 There’s another chamber to the north with two sarcophagi inside, containing the Icebite Robe and some minor items. If you head out and continue your journey to the west from here, you’ll find the door to the House of Healing. If you ignore the door and head north you’ll come across some Dark Justiciar corpses. Continue along the path to eventually find Raphael. He’ll start you off with a warning in the form of a rhyme, to which you can call out his worry over you. Afterward, you can ask him what dangers he’s warning you about. If you ask him for specifics, he’ll explain that there’s an ancient demon ahead lost to time, and approaching them risks awakening their plague onto the world if you don’t manage to kill it. If you want him to be more specific, you can try to pass a Persuasion check. Afterward, you can do an Insight check to see if he’s hiding anything else from you. Upon further probing, you’ll learn that it’s an Orthon you’re after. Telling him that he’s afraid of this target will have him warn you not to underestimate it. Finally, he’ll assure you that he hasn’t forgotten his end of the bargain about translating the scars on Astarion’s back. Behind him, to the southwest is the entrance to the Grand Mausoleum.
 
- 
+# GRAND MAUSOLEUM
 
- 
-
-GRAND MAUSOLEUM
-
-grand mausoleum2 locations world baldurs gate 3 wiki guide
-
-Investigate the Thorm Mausoleum
- 
+## Quests
+- Investigate the Thorm Mausoleum
 
 After entering, when you go through the iron fence, you’ll hear a talking skull telling you to beat it, but it won’t do anything else if you interact with it. A part of Ketheric Thorm’s diary sits near his diseased wife’s coffin. Other parts as scattered around this area if you want to look into his past. In the eastern area of this first area, you can find a locked Traveller’s Chest at (X:-259, Y:-882). It has a lockpicking DC of 14 and contains the Vivacious Cloak, some alchemy materials, some valuables, and possibly a potion or two.
 
 Loot the rest of the area as much as you’d like, and then head over to the northern section. The plaque here reveals that Isobel is Ketheric’s daughter and that the tomb here belonged to her. Successful Perception checks here will reveal traps on the vents and various tiles on the floor, as well as gargoyle heads on the walls, all around the room. To move forward from here, you’ll have to press the buttons below the three paintings around the room in the right order. Start with the button below the Moonrise Towers painting first, and then the Grief painting beside it, before finally pressing the last button under Ketheric Thorm’s painting. Getting the order correctly will open up the walls beside the last painting and allow you to pass through. Interact with the Traversal Gem here to travel down and get to the Gauntlet of Shar.
 
- 
 
-GAUNTLET OF SHAR
+# GAUNTLET OF SHAR
 
-nightsong prison entrance gauntlet of shar walkthrough bg3 wiki guide
-
-Reach Gauntlet of Shar by Hidden Room in Grand Mausoleum
-Meeting Balthazar
-Sharran Trials
-Silent Library
-Inner Sanctum
-Nightsong's Prison
+## Quests
+- Reach Gauntlet of Shar by Hidden Room in Grand Mausoleum
+- Meeting Balthazar
+- Sharran Trials
+- Silent Library
+- Inner Sanctum
+- Nightsong's Prison
  
 
 To reach the Gauntlet of Shar, you have to be within the Reithwin Graveyard in Grand Mausoleum. Successful Perception checks here will reveal traps on the vents and various tiles on the floor, as well as gargoyle heads on the walls, all around the room. In order to reveal the path, you need to press the buttons under the 3 paintings in the following order: Start with the button below the Moonrise Towers (X:-248 Y:-848) painting first, and then the Grief (X:-278 Y:-842) painting beside it, before finally pressing the last button under Ketheric Thorm’s (X:-280 Y:-830) painting. After pressing the corresponding buttons, the walls beside the last painting will open up and allow you to pass through. You'll find a platform there with a Traversal Gem, interact with it to travel down the Gauntlet of Shar. There are 4 Umbral Gems in Gauntlet of Shar, you need to collect all of them in order to progress Shadowheart's personal quest, Daughter of Darkness: The Chosen of Shar.
@@ -263,31 +252,24 @@ Now make your way back to the Pedestal of Reckoning at this location (X:-717 Y:-
 
 Once you've been transported to the area, continue heading northwest, you'll need to make multiple jumps to reach the objective area. You don't need to worry about fall damage as the gravity in this plane is adjusted. You'll also notice Justiciar Soulhunters along the way, as long as you don't attack them, they won't turn hostile. Once you reach this location (X:-606 Y:-1435), you'll find Nightsong. If you are able to convince Shadowheart to spare Nightsong, you will gain an approval from Karlach and receive the Moonlight Glaive weapon.
 
- 
+# MOONRISE TOWERS
 
- 
-
-MOONRISE TOWERS
-
-entering moonrise towers locations walkthrough baldurs gate 3 wiki guide
-
-Infiltrate Moonrise Towers, play along as a loyal soldier to Ketheric Thorm
-Explore the Main Floor
-Explore the First Floor
-Reach the Moonrise Towers Prison
-Kill the Warden
-Free the Prisoners
-Return to Gauntlet of Shar
-Free the Nightsong (Nightsong's Prison)
-Attack Moonrise Towers
-Fight Ketheric Thorm
+## Quests
+- Infiltrate Moonrise Towers, play along as a loyal soldier to Ketheric Thorm
+- Explore the Main Floor
+- Explore the First Floor
+- Reach the Moonrise Towers Prison
+- Kill the Warden
+- Free the Prisoners
+- Return to Gauntlet of Shar
+- Free the Nightsong (Nightsong's Prison)
+- Attack Moonrise Towers
+- Fight Ketheric Thorm
  
 
 NOTE: There are 2 versions of this walkthrough that will affect the outcome of your relationship with one of the companions. We recommend following the version indicated here, but you may view the alternate version in the Moonrise Towers guide. The first guide will feature infiltrating the Moonrise Towers and playing along as a faithful warrior to The Absolute, only to betray them once you discover that Nightsong is the relic that Ketheric Thorm was referring to. Shadowheart will abandon her duty to Lady Shar by freeing the Nightsong, instead of killing her.
 
- 
-
-THE PATH TO MOONRISE TOWERS
+# THE PATH TO MOONRISE TOWERS
 
 In order to reach the Moonrise Towers, you will be traveling in the Shadow Cursed Lands where you will meet different characters of different races. At exactly (X:-156 Y:-97) you will see a bridge with glowing lights coming from the ground underneath. There's also a Waypoint that you can unlock here. Walk towards the bridge where 2 guards will stop you at the foot of the stairs. The other one, named Zealot Malik will recognize you as "True Soul" and will begin to act more friendly towards you. 
 
@@ -308,9 +290,7 @@ I am surprised, Astarion. I thought you'd jump at a chance like this.
 Just bite her- the potion sounds useful.
 If you force Astarion to do this, he will disapprove of this, however, you will gain 2 potions. One is unique to your character, during our playthrough, we got the Elixir of Dragonborn Prowess: Fire.  Then, for the other potion, Potion of Everlasting Vigour, which increases your Strength by 2 permanently. You may also interact with Araj Oblodra again, to check her wares. She's also a trader dealing in Moonrise Towers.
 
- 
-
-EXPLORING THE MAIN FLOOR OF MOONRISE TOWERS
+# EXPLORING THE MAIN FLOOR OF MOONRISE TOWERS
 
 After you encounter the trader in blood, you can continue to explore the Main Floor of the Moonrise Towers and head to (X:-152 Y:-200) where you will find Ketheric Thorm sitting on his throne and his audience. The lives of Fezzerk and his group are being decided upon by Z'rell. Allow things to unfold before you so Ketheric Thorm will turn his attention to you and will ask for your judgment. Then, tell him to be kind to these soldiers.
 
@@ -322,9 +302,7 @@ You will come across Mig, a troll who tells you about meat sounds. She suspects 
 
 As Linsella tries to demonstrate how she can control the gnoll that she calls Barnabus, he will be free from her control and attacks her as. Now, in the face of a gnoll, use the Persuasion check on it so that the gnoll will not attack you if you are successful. This event called "Pied Piper" will inspire Astarion, where you will successfully influence gnolls, either to break free or continue being subservient. Following the meat sounds that the troll mentioned earlier, you will arrive at (X:-127 Y:-175) You will find some sort of mucus blocking a doorway. Given its current state, your party won't be able to enter and investigate from here. 
 
- 
-
-EXPLORING THE FIRST FLOOR
+# EXPLORING THE FIRST FLOOR
 
 At (X:144 Y:-210), you will find yourselves on a landing that will take you to the First Floor of Moonrise Towers. There's a bigger journey awaiting your party here and the first thing that you will witness here is Z'rell and Radija in a conversation, that no one is allowed to disturb the prayers of Thorm. She will turn her attention to you and ask about how you handled the goblins.
 
@@ -338,9 +316,8 @@ Inside the room, you will find an undead hound guarding the area. You can attemp
 
 There's another locked door here, that will lead to a different room. Unlocking this door will require you to pass a DC of 15. Inside this room, you will find more chests to loot and letters to discover. The unique chest can be found at the foot of the bed where it transforms into a Mimic the moment you get near it. When you're done killing it, you can loot its items.
 
- 
 
-HEADING TO THE MOONRISE TOWERS PRISON
+# HEADING TO THE MOONRISE TOWERS PRISON
 
 NOTE: It is important to finish the quests in the Moonrise Towers Prison before attacking Moonrise Towers because you will risk some of the quests becoming unavailable.
 
@@ -362,7 +339,7 @@ This event of reaching the bottom will inspire Karlach on Delving into the Deep.
 
  
 
-TO GAUNTLET OF SHAR
+# TO GAUNTLET OF SHAR
 
 NOTE:  This is our recommended guide that will lead Shadowheart to forsake her duty to Lady Shar and free Nightsong from her prison. Visit Moonrise Towers to see the alternate guide.
 
@@ -445,21 +422,16 @@ Don't you want to see how this ends?
 I can handle this- don't worry. 
 For the next dialogue, you will get an option if you want Jaheira to follow you in battle. If not, she will stay behind and be on guard with her harpers. After Thorm's escape, the one way to reach them is to drop down the chasm created by the colossal tentacle. You can camp just before you begin the next battle so you can replenish your health and spell slots of your party.
 
- 
+# MIND FLAYER COLONY
 
- 
-
-MIND FLAYER COLONY
-
-38 mind flayer colony location baldurs gate 3 wiki guide
-
-Jump down the Hollow Tower
-Free Us
-Explore Necrotic Laboratory and get Resonance Stone
-Solve the Mind Flayer Colony Puzzle
-Help Zevlor
-Free Mizora
-Defeat Ketheric Thorm
+## Quests
+- Jump down the Hollow Tower
+- Free Us
+- Explore Necrotic Laboratory and get Resonance Stone
+- Solve the Mind Flayer Colony Puzzle
+- Help Zevlor
+- Free Mizora
+- Defeat Ketheric Thorm
 NOTE: This walkthrough will feature an alternate version wherein one of your companions, Gale, gets an opportunity to end the control of the absolute as part of The Wizard of Waterdeep quest. When he gets close enough to the elder brain, he can cause himself to explode killing everything else around him. We recommend following our initial guide here but we will still indicate the alternate version below.
 
 Once your party has rested, you can now interact with the Hollow Tower. Once you do so, you will get a prompt that will ask you if you will leap after Ketheric Thorm and the tentacle that drew him underground with the Nightsong. If you agree, your character will look down on the chasm as Shadowheart asks if you intend to jump down. Seemingly as if your character didn't hear anything, you will jump down the chasm and upon reaching the ground, you see the walls around you are covered with the same red mucus that you found inside the tower, from where the suspicious sounds came from. The mucus is far thicker indicating that you are closer to the source. 
@@ -554,9 +526,8 @@ Mizora will now leave this area and you can continue exploring the Mind Flayer C
 
 We recommend using the Deception check first, and if that works, you can have one of your party do a sneak attack on her. The rest of the enemies will see what you have done, and you will have fewer enemies to fight. All that's left now is to eliminate Bonefighter, Maghtew Badj, and Hairy Henry. Continue the path behind this section and you will find a Restoration that looks like a mushroom. Interact with it to replenish your health. 
 
- 
 
-DEFEAT KETHERIC THORM
+# DEFEAT KETHERIC THORM
 
 In the distance below, you will see a grand area that is separated from the Mind Flayer Colony which seems to be like a grand stage. There's a Neural Apparatus that serves as a lift that will take you to the bottom of the Mind Flayer Colony. Your party is moving closer to Ketheric Thorm and you can sense the Nautiloids stronger down here. At (X:812 Y:-25), you will find another Flesh-Wrought Door, as you interact with it, the Dream Visitor will speak to you, that you have found the location of The Absolute. If you are ready to take the fight, choose Ready, or if you need some time to prepare, go to Campsite and rest. 
 
@@ -573,9 +544,7 @@ What hope do we have if the gods themselves are involved?
 I didn't come here to fight gods- I just want my parasite removed. 
 If you choose the first one, they will tell you to prepare for the fight of your lives, to save the lives of everyone in Faerun. They tell you that the Army of the Absolute is marching towards Baldur's Gate and that the elder brain has the power to turn everyone into Mind Flayers. They tell you that you need to seize control of the elder brain and they will offer to be your shield but asks that you must be the sword. 
 
- 
-
-THE ALTERNATE ENDING - GALE
+# THE ALTERNATE ENDING - GALE
 
 NOTE: This is the alternate version of this walkthrough with the help of Gale, who will detonate the bomb to destroy the elder brain and those around him. Following this guide will complete The Wizard of Waterdeep quest in Baldur's Gate 3. A requirement for this is to have Gale as one of your companions upon entering the room in the deepest level of Mind Flayer Colony.
 
