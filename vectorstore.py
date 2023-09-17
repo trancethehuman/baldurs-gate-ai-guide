@@ -18,28 +18,27 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 # define embedding function
 embed_model = OpenAIEmbedding(embed_batch_size=10)
 
-node_parser = SimpleNodeParser.from_defaults(chunk_size=1000, chunk_overlap=120)
+node_parser = SimpleNodeParser.from_defaults(chunk_size=1300, chunk_overlap=200)
 
 # load documents
 documents = SimpleDirectoryReader(input_dir="./documents/quests/", recursive=True).load_data()
 
-BALDURS_GATE_3_ALL_ACTS_METADATA = [{
+BALDURS_GATE_3_ALL_ACTS_METADATA = [
+  {
     "act": 1,
     "documents_path": "./documents/quests/act_1",
-    "description": "This document includes quests, tips and progressions in Baldur's Gate 3's Act 1."
+    "description": "Tips and guides for Baldur's Gate 3's Act 1."
   },
-  # {
-  #   "act": 2,
-  #   "documents_path": "./documents/quests/act_2",
-  #   "description": "This document includes quests, tips and progressions in Baldur's Gate 3's Act 2."
-  # },{
-  #   "act": 3,
-  #   "documents_path": "./documents/quests/act_3",
-  #   "description": "This document includes quests, tips and progressions in Baldur's Gate 3's Act 3."
-  # }
+  {
+    "act": 2,
+    "documents_path": "./documents/quests/act_2",
+    "description": "Tips and guides for Baldur's Gate 3's Act 2."
+  },{
+    "act": 3,
+    "documents_path": "./documents/quests/act_3",
+    "description": "Tips and guides for Baldur's Gate 3's Act 3."
+  }
 ]
-
-
 
 
 # Create a new Chroma Database and save to disk
