@@ -1,2 +1,4 @@
 llama-index
 streamlit
+chromadb
+python-dotenv
