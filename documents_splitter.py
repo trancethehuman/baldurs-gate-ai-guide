@@ -9,7 +9,7 @@ original_document_general_path = "./documents/original_texts/"
 def split_by_headers(filename):
     # Extract the original document name (without extension) from the path
     original_name = os.path.splitext(os.path.basename(filename))[0]
-    new_directory = f"./documents/quests/{original_name}/"
+    new_directory = f"./documents/knowledge_base/{original_name}/"
 
     # Create the directory if it doesn't exist
     if not os.path.exists(new_directory):

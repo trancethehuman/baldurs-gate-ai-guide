@@ -8,6 +8,7 @@ from llama_index import (Document, ServiceContext, SimpleDirectoryReader,
                          VectorStoreIndex)
 from llama_index.embeddings import LangchainEmbedding, OpenAIEmbedding
 from llama_index.node_parser import SimpleNodeParser
+from llama_index.schema import MetadataMode
 from llama_index.storage.storage_context import StorageContext
 from llama_index.vector_stores import ChromaVectorStore
 
@@ -15,35 +16,42 @@ load_dotenv()
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-# define embedding function
-embed_model = OpenAIEmbedding(embed_batch_size=10)
-
 node_parser = SimpleNodeParser.from_defaults(chunk_size=1300, chunk_overlap=200)
 
-# load documents
-documents = SimpleDirectoryReader(input_dir="./documents/quests/", recursive=True).load_data()
+embed_model = OpenAIEmbedding(embed_batch_size=10)
 
 BALDURS_GATE_3_ALL_ACTS_METADATA = [
   {
     "act": 1,
-    "documents_path": "./documents/quests/act_1",
+    "documents_path": "./documents/knowledge_base/act_1.txt",
     "description": "Tips and guides for Baldur's Gate 3's Act 1."
   },
   {
     "act": 2,
-    "documents_path": "./documents/quests/act_2",
+    "documents_path": "./documents/knowledge_base/act_2.txt",
     "description": "Tips and guides for Baldur's Gate 3's Act 2."
-  },{
+  },
+  {
     "act": 3,
-    "documents_path": "./documents/quests/act_3",
+    "documents_path": "./documents/knowledge_base/act_3.txt",
     "description": "Tips and guides for Baldur's Gate 3's Act 3."
+  },
+  {
+    "act": 0,
+    "documents_path": "./documents/knowledge_base/companions.txt",
+    "description": "Tips and guides for Baldur's Gate 3's player companions."
+  },
+  {
+    "act": 0,
+    "documents_path": "./documents/knowledge_base/npcs.txt",
+    "description": "Tips and guides for Baldur's Gate 3's NPCs."
   }
 ]
 
 
 # Create a new Chroma Database and save to disk
 print("Loading or Creating Chroma Database")
-db = chromadb.PersistentClient(path="./chroma_db") # This acts as saving and loading (if path exists)
+db = chromadb.PersistentClient(path="./chroma_db") # ToDo: Maybe change this to Chroma Reader?
 quests_guide_collection = db.get_or_create_collection("baldurs_gate_3_quests_guide")
 vector_store = ChromaVectorStore(chroma_collection=quests_guide_collection)
 
@@ -55,6 +63,7 @@ index = None
 # If the vectorstore doesn't have any documents, create a new index
 if quests_guide_collection.count() == 0: # This means the Chroma collection (or index) is brand new
   print("Started loading documents using Llama Index")
+  
   documents = []
 
   for metadata in BALDURS_GATE_3_ALL_ACTS_METADATA:
@@ -93,6 +102,9 @@ if quests_guide_collection.count() == 0: # This means the Chroma collection (or 
   index = VectorStoreIndex.from_documents(
       documents, storage_context=storage_context, service_context=service_context
   )
+  
+  print("The LLM sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.LLM))
+  print("The Embedding model sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.EMBED))
 
 # If the vectorstore has documents, load the existing index
 else:
@@ -106,11 +118,13 @@ else:
 query_engine = index.as_query_engine(verbose=True, streaming=True)
 print("Started querying using Llama Index")
 
-# print(node_parser.get_nodes_from_documents([documents[0]], show_progress=True))
-
-while True:
-  user_query = input("Enter your query: ")
-  response = query_engine.query(user_query)
-  retrieved_nodes = response.source_nodes
-  print(response)
-  # print(f"\n{response.source_nodes}")
+if __name__ == "__main__":
+  while True:
+    user_query = input("Enter your query: ")
+    response = query_engine.query(user_query)
+    retrieved_nodes = response.source_nodes
+    print(response)
+    for i, source_node in enumerate(response.source_nodes):
+      print(f"Source node {i+1}: {source_node.node.get_content()}")
+  
+  
