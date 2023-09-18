@@ -1,23 +1,14 @@
 import streamlit as st
-from vectorstore import query_engine, index
+from vectorstore import query_engine
+from supabase_wrapper import log_message
+
 
 st.set_page_config(
     page_title="Baldur's Gate 3 AI Guide", page_icon="🧙‍♀️")
-        
-st.title("Baldur's Gate 3 AI Guide")
 
-# query = st.text_input("What's on your mind?")
-       
-# if st.button("Submit"):
-#     if not query.strip():
-#         st.error(f"Please provide the search query.")
-#     else:
-#         try:
-#           response = query_engine.query(query)
-#           st.success(response)
-        
-#         except Exception as e:
-#             st.error(f"An error occurred: {e}")
+st.image("./assets/splash.jpg", width=700)
+
+st.title("Baldur's Gate 3 AI Guide")
             
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
@@ -29,6 +20,8 @@ if "messages" not in st.session_state.keys(): # Initialize the chat messages his
 
 if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
+    log_message("user", prompt)
+    
 
 for message in st.session_state.messages: # Display the prior chat messages
     with st.chat_message(message["role"]):
@@ -42,3 +35,4 @@ if st.session_state.messages[-1]["role"] != "assistant":
             st.write(response.response)
             message = {"role": "assistant", "content": response.response}
             st.session_state.messages.append(message) # Add response to message history
+            log_message("AI", response.response)
