@@ -23,3 +23,5 @@ As you travel through Faerûn, bring this trusted AI guide with you for tips whe
 ## Future plans
 
 - Add support for local mode (local LLMs and embeddings)
+
+- Add build and mod guides
