@@ -1,0 +1,44 @@
+import streamlit as st
+from vectorstore import query_engine, index
+
+st.set_page_config(
+    page_title="Baldur's Gate 3 AI Guide", page_icon="🧙‍♀️")
+        
+st.title("Baldur's Gate 3 AI Guide")
+
+# query = st.text_input("What's on your mind?")
+       
+# if st.button("Submit"):
+#     if not query.strip():
+#         st.error(f"Please provide the search query.")
+#     else:
+#         try:
+#           response = query_engine.query(query)
+#           st.success(response)
+        
+#         except Exception as e:
+#             st.error(f"An error occurred: {e}")
+            
+if "messages" not in st.session_state.keys(): # Initialize the chat messages history
+    st.session_state.messages = [
+        {"role": "assistant", "content": "What's on your mind?"}
+    ]
+
+
+# chat_engine = index.as_chat_engine(chat_mode="condense_question", verbose=True)
+
+if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
+    st.session_state.messages.append({"role": "user", "content": prompt})
+
+for message in st.session_state.messages: # Display the prior chat messages
+    with st.chat_message(message["role"]):
+        st.write(message["content"])
+
+# If last message is not from assistant, generate a new response
+if st.session_state.messages[-1]["role"] != "assistant":
+    with st.chat_message("assistant"):
+        with st.spinner("Thinking..."):
+            response = query_engine.query(prompt)
+            st.write(response.response)
+            message = {"role": "assistant", "content": response.response}
+            st.session_state.messages.append(message) # Add response to message history

@@ -7,6 +7,7 @@ from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 from llama_index import (Document, ServiceContext, SimpleDirectoryReader,
                          VectorStoreIndex)
 from llama_index.embeddings import LangchainEmbedding, OpenAIEmbedding
+from llama_index.llms import OpenAI
 from llama_index.node_parser import SimpleNodeParser
 from llama_index.schema import MetadataMode
 from llama_index.storage.storage_context import StorageContext
@@ -56,6 +57,7 @@ vector_store = ChromaVectorStore(chroma_collection=quests_guide_collection)
 
 storage_context = StorageContext.from_defaults(vector_store=vector_store)
 service_context = ServiceContext.from_defaults(embed_model=embed_model, node_parser=node_parser)
+service_context_query_engine = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0))
 
 index = None
 
@@ -114,15 +116,20 @@ else:
   )
 
 # Query Data
-query_engine = index.as_query_engine(verbose=True, streaming=True)
-print("Started querying using Llama Index")
+print("Initialize query engine")
+query_engine = index.as_query_engine(verbose=True, streaming=False, service_context=service_context_query_engine, similarity_top_k=6)
+
 
 if __name__ == "__main__":
   while True:
-    user_query = input("Enter your query: ")
+    user_query = input("\nEnter your query: ")
     response = query_engine.query(user_query)
     retrieved_nodes = response.source_nodes
-    print(response)
+    # print(response)
+    
+    # response.print_response_stream()
+    
+    # Citing sources (nodes)
     # for i, source_node in enumerate(response.source_nodes):
     #   print(f"Source node {i+1}: {source_node.node.get_content()}")
   
