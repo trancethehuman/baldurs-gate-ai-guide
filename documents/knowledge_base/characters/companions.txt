@@ -552,3 +552,386 @@ Enjoys having and petting the Camp Animals.
 This part isn't defining the alignment of the Companion
 To avoid disapproval events, make sure the companion is Either left in camp or just far away from the dialogue.
 Hates having his mind invaded and or breaching his privacy.
+
+
+# SHADOWHEART
+
+## Shadowheart's profile
+STR: 13
+DEX: 13
+CON: 14
+INT: 10
+WIS: 17
+CHA: 8
+					
+Class: cleric (Trickery Domain - Shar)
+Race: High Half-Elf
+Background: Acolyte
+Initiative: +1
+Movement Speed: 9m
+Darkvision Range: 12m
+Type: Humanoid
+Size: Medium
+Weight: 75kg
+Carrying Capacity: 170kg
+TAGS: Baldurian, High Half-Elf, Half-Elf, Humanoid, Shadowheart
+Shadowheart is a Companion in Baldur's Gate 3. BG3 Shadowheart can be rescued during the Nautiloid segment in Act 1, or found by the locked crypt door on the beach after crashing. Shadowheart is a Half-Elf and a Trickery Domain Cleric, which gives your party heals, buffs and interesting stealth and deception spells. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+A loyal cleric of Shar, Shadowheart is the sole survivor of a holy mission undertaken on the Mistress of the Night's behest. She alone must deliver a relic of immense power to her coven in Baldur's Gate, while threatened by a strange new magic that is burgeoning from within.
+One of Shar's dark disciples, Shadowheart was sent on a suicide mission to steal an item of great power. While wrestling with her faith and strange, untamed magic, Shadowheart has enemies on all sides - and a long-buried secret to uncover.
+
+## WHERE TO FIND SHADOWHEART
+Shadowheart can be freed from a pod during the prologue (Patch 5 and later) while you are aboard the Nautiloid. The pod can be unlocked by finding and placing a particular rune in the console nearby. Certain classes may have the option to bypass the need for the rune. She will then offer to accompany you to the helm. Once you exit the Nautiloid, you will find her unconscious on the Ravaged Beach nearby. She will thank you for freeing her earlier, and offer to join your party.
+If Shadowheart is not freed from her pod on the Nautiloid, then she can be found at the entrance of the Dank Crypt (Abandoned Ruins) at the northern end of the Ravaged Beach, where she will offer to join your party.
+
+## SHADOWHEART'S STARTING EQUIPMENT
+- Circlet
+- Chain Shirt
+- Leather Boots
+- Mace
+- Studded Shield
+- Shadowheart's Clothes (cosmetic)
+- Tasteful Boots (cosmetic)
+- Shadowheart's Underwear (cosmetic)
+
+## SHADOWHEART'S STARTING SKILL PROFICIENCIES
+- History
+- Religion
+- Insight
+- Medicine
+
+## SHADOWHEART QUEST WALKTHROUGH
+To complete Shadowheart's Questline, you must first meet her, either in the Nautiloid or the Ravaged Beach. If you do not recruit her on the Ravaged Beach (whether you freed her or not), she will be found in the Druid's Grove, where she will be sitting on a rock near the training area in the Hollow. She will offer again to join your party, but if Lae'zel is present, convincing her will require a successful Persuasion check. This will begin the quest:
+- Daughter of Darkness
+Note: After you've acquired the Speak with Dead spell, you can go return to the Ravaged Beach and talk to the dead fishermen to learn more about Shadowheart.
+
+## HOW TO ROMANCE SHADOWHEART
+In this Shadowheart Romance Guide, we explore the general path toward gaining Shadoweart's approval and what opportunities you have to share some moments with her. This will be updated as more is revealed throughout the game. Gaining Shadowheart's approval centers around respecting her privacy and boundaries, as she values secrets and rewards curiosity. Although she may not openly show it, she appreciates actions that benefit others and actions motivated by self-interest. Being a member of the Trickery Domain, she admires the use of wit and cunning to resolve situations and approves of the player engaging in such actions, rather than brute force.
+Additionally, her mastery over secrecy, stealth, and deceit leads her to favor players who exhibit similar skills. Any time the player passes skill checks in persuasion, deceit, religion, or insight, they will also impress Shadowheart and boost her approval of the player. Players should avoid engaging in unnecessary cruelty, as she strongly detests such actions. Being needlessly cruel is a surefire way to lower her approval, although she may be open to certain morally ambiguous actions if they can be justified. Additionally, following Lae'zel's suggestions or prioritizing her opinions and suggestions over Shadowheart's will also lead to disapproval. In general, you'll have to embrace Shadowheart for who she is, regardless of how people fear her or shy away from her, and be patient about her opening up to you. 
+As with all the Companions, whenever you can talk to Shadowheart, always scour the dialogue options for any new options, again still following the general guidelines above, where she'll slowly open up to you about things that will help you deepen your bond with her further and further. These can be things like places that she likes to visit, and gifts that you could give her, like the night orchid which is her flower of choice and can be found in the Shadow-Cursed Lands. Anything you find out about might also appear in dialogue choices during intimate moments, which will allow you easier choices if you're afraid to mess up.
+
+## SHADOWHEART ROMANCE GUIDE ACT I
+Your relationship with Shadowheart can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines above in mind and eventually getting her approval up, players may approach her at the camp for a talk. At this point, your approval rating with her should be High so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point.
+You're on the right track with Shadowheart, if you can choose the dialogue option where your character says, "I can't help but feel like you and I might have missed a chance to connect. Truly connect." when they talk to her. This can be hard to catch as the option is just lumped together along with other options that usually show up when you try to talk to Shadowheart at the camp. Choose the appropriate response after she pushes forward her idea for an intimate moment alone. Afterward, head to your bedroll and interact with it to see that you have a choice to go to bed alone or to find Shadowheart. By clicking on Shadowheart, players share a moment with her at the cliffside. You can be a bit more forward with your dialogue choices during your time alone with her, but still, keep the same guidelines in mind in order to secure the romance path. When she asks you about yourself, the Persuasion roll dialogue option will not ruin anything if you succeed it. When she tries to share about herself but says she can't, she'll appreciate it if you don't pry further. As previously mentioned, anything you've managed to make her open up about at this point will help with regard to dialogue choices. Eventually, you both will lie down on the rocks, and choosing the next two appropriate dialogue choices for a moment will lead to your first kiss and officially begin your relationship.
+
+## SHADOWHEART ROMANCE GUIDE ACT II
+Act II will eventually bring you to the Silent Library in the Gauntlet of Shar. As the Location's name suggests, a couple of events that take place during the corresponding Quests and objectives within will inevitably affect Shadowheart, as she is a loyal follower of Shar. At some point in the dungeon, you'll come across a Statue of Shar that you can have your Companions pray to. Doing so with Shadowheart will have her reaffirm her belief in Shar, declaring that she will give the entirety of her heart and soul to Shar from then on. It is yet unknown if this means that your romance with her will be put to a stop, but it's probably not advisable to risk it. Eventually, Balthazar, the main Enemy for this Quest and Location is trying to claim a sleeping entity called the Nightsong, who you'll get to reach after you get magically transported to a different realm in the depths of the Gauntlet of Shar. After successfully claiming victory against him in the ensuing battle, Shadowheart will find herself holding the Spear of Night. You will then have the choice of telling her to go ahead and kill the Nightsong, or to lower her weapon instead, which unfortunately will require a successful Charisma check with a DC of 20. As you can imagine, either choice will have large consequences for the world of the game, which may include effects on your relationship with Shadowheart. Killing the Nightsong results in Shadowheart truly embracing her role as a chosen of Shar and having no more time or energy to spare loving anything or anyone else. Successfully sparing the Nightsong will eventually allow you to convince Shadowheart to leave behind the Shar. To do this, simply go with the dialogue option that will continue your relationship whenever the choice presents itself. The transition will be hard on her, but your support through the difficult time will allow your romance to grow stronger. The Nightsong will also reveal herself to be a daughter of Selune and will have answers to the question of Shadowheart's lost past. While it is again not certain whether killing the Nightsong will put an end to your romance with Shadowheart, it is probably not advisable to risk it.
+
+## SHADOWHEART ROMANCE GUIDE ACT III
+As mentioned, following this route will have Shadowheart turn away from her devotion to the Shar. Following the important, irrevocable decision to spare Nightsong, She will instead be blessed by Selune, the moon goddess. This will cause her to be forsaken by the Shar, thus her eventual decision, helped by your convincing, to leave this loyalty behind. Nightsong herself will reveal herself to be Dame Aylin, daughter of the moon goddess. After progressing in Act III, and keeping your relationship with Shadowheart going, Aylin will eventually tell you what she knows of Shadowheart's past, including why she has an aversion to swimming. Some more time later, your romance will culminate with a scene that starts with receiving an invite for you to swim with her, as a symbol of her leaving her life as a chosen of the Shar behind. This will turn into the final intimate scene where you and your lover will enjoy each other's company as you skinny dip in the calm waters.
+
+## SHADOWHEART APPROVAL GUIDE
+If you are looking to befriend or romance Shadowheart, you will have to get her approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## General Personality Tips
+- Really enjoys privacy and boundaries but rewards curiosity. She appreciates when space is given to her and when people don't pry too much.
+- Has a heart of gold under the tough exterior, and values peaceful resolutions rather than brute force. She'll appreciate using deception, wit, and persuasion to arrive at these resolutions.
+- Hates acts of unnecessary cruelty.
+- Approves of deeds of self-Interests including extortion, thievery, and scamming, as long as they're justified enough. This makes her approval instances somewhat have an inconsistent pattern.
+- A lot of her approval instances come from Persuasion, Deception, Religion, and Insight Checks. Her most important scenes require successful Insight checks. Failing some will actually earn disapproval from her.
+- Dislikes Lae'zel and most of her opinions and ideas.
+- As a worshipper of Shar and also by default a Cleric of the Trickery Domain. Following her principles of secrecy, indirect approach, and deceit as a consistent principle is a good way of gaining approval with Shadowheart.
+
+## SHADOWHEART's ENDING DESCRIPTION (SAVING THE NIGHTSONG)
+In Moonrise Towers, you will discover a power that makes Ketheric Thorm invulnerable. Your party will continue the investigation regarding this power and will lead you to travel to Gauntlet of Shar. At the Verge of the Shadows at (X:-718 Y:-845) you will find a body of water that serves as the entrance to Shadowfell, the domain of Lady Shar. You will get a warning that the state of the region can change depending on your decisions, such as quests becoming unavailable. If you proceed to do so, we recommend following our guide to get the desired outcome. In this case, we will allow Shadowheart to save the Nightsong but betray Lady Shar.
+As you step forward into the statue and through the body of water, you will feel your body struggle as you fight back the sensation. Your character will get knocked out, together with your party. Once you come back to your senses, you will find yourselves in Shadowfell, and Shadowheart immediately recognizes the presence of Lady Shar. However, you will be interrupted as Balthazar flies in to tell you to hurry along and become a witness to his work. Shadowheart defies him and quickly tells him that he does not belong in the Dark Lady's domain. 
+In this area, Balthazar has no desire to fight unless you initiate it. He will ask that you follow him as he leads the way into Nightsong's Prison. Your party will be doing a series of jumps until you make it to the bottom of Shadowfell. The pattern shouldn't be difficult and each member is guaranteed to survive the jumps as long as it's near the ledge, and not falling off the rocks. Once you finally catch up with Balthazar, you realize that the relic that Discipe Z'rell was referring to was the Nightsong, which is in fact, a humanoid. She invites you to "heap more sins upon your head. My retribution will be all the sweeter for them." Nightsong continues to reveal, that she supplies Ketheric Thorm's immortality with her own soul. Balthazar calls her "Aylin" and commands you to keep back to secure her for a journey. 
+Balthazar will tell you that she, the Nightsong, possesses immortal strength and lends it to General Throm through his work. After realizing that she is the key to Ketheric Thorm's immortality, you will now have the option to save her or let Balthazar do his job. 
+If she's the reason Ketheric Thorm is invulnerable, you're not taking her. Leave, or you're a dead man.
+Go on, then. Take the Nightsong to Ketheric. Get it over with.
+Attack him.
+If you choose the first option, Karlach will give you her approval and you will begin to fight Balthazar right after. Take note that this area is surrounded by Balthazar's minions and they will have the advantage as they are in a higher position. Plan well so you can survive this assault. With Balthazar out of the picture, the Nightsong addresses Shadowheart. She possesses the power to free her or kill her. Shadowheart will turn to you and tells you that "Her fate is mine to seal. Let me handle this." but the Nightsong tells her that the only fate she's sealing is her own and that to become a Dark Justiciar, she will know no love, no joy, but only servitude.
+
+Shadowheart is conflicted about what she wants to achieve and you will be given the option to help her out:
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Is this truly what you want?
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+If you choose the 3rd option, you will sense hesitance in her voice. You will get another chance to talk to her, or sway her with the next choices:
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+Choose the 4th option which will then lead you to the next choices:
+- All right. You have my support.
+- This is wrong... but I can't afford to lose you. Do what you must.
+- You want to fight? Fine.
+
+Next, choose the 2nd option so Nightsong will once again, interrupt your conversation with Shadowheart. Nightsong reveals that she knows of the only memory that Shadowheart has. The memory of her being hunted by wolves, and yet, Shadowheart still can't remember what she has lost. Shadowheart still believes that she is meant to become the Lady Justiciar, and you will get the next choices here:
+- Kill her. Let's finish this ritual.
+- [PERSUASION] Don't do it, Shadowheart. Don't kill her, you'll regret it.
+- She knows something about you. Spare her, and see what she has to say.
+- Say nothing.
+
+If you attempt the Persuasion check, you will need to pass a DC of 21, choosing the 3rd option will also get the same results and grant the approval of Karlach. When successful, she will procure the spear of Lady Shar and grips it tightly as if she's ready for anything that was to come, and yet, she throws away the spear, abandoning her lifelong quest. Shadowheart now fears that she will be disowned, and she fears what will happen next to her. Nightsong tells her that her fate is not fixed and to lay a friendly hand on her, to fight the battle that has been awaiting her, the one that will take your party to Ketheric Thorm, back to Moonrise Towers. 
+
+Upon doing so, she calls out to Moonmaiden Selune as power surges through her arm. She declares that the Nightsong is no more, and she transforms into an armored Dame Aylin. She spreads out her wings and swings her mighty sword. She addresses Shadowheart once again and urges that she was able to spurn her Dark Lady, and may start to feel a stirring of the truth after what she has done. Dame Aylin that there is a battle yet to be fought after being freed from her century-long prison. She will now ask Shadowheart, "Are you ready?"
+- Ready for what?
+- Dark Lady be merciful... What have I done?
+- To get out of this place? Absolutely.
+- For my weapon? Naturally. 
+
+If you choose the first one, she responds with "To kill Ketheric Thorm" and she will fly away to lead the assault in Moonrise Towers against Thorm's army. Shadowheart asks that you leave Shadowfell already after what she has done, and she doesn't want to be in her domain when her rage falls upon her.  As you travel through the portal, Shadowheart goes out for a moment. She tells you that she heard Lady Shar's voice after she defied her. She has been abandoned by her goddess and allies. Powerless, she will now seek answers from Dame Aylin.
+Shadowheart will earn the following rewards:
+- Moonbeam
+- Selune's Spear of Night
+- Moonlight Glaive
+
+## RESULTS AND CONSEQUENCES OF SHADOWHEART SAVING THE NIGHTSONG
+If you remain supportive of Shadowheart and continue becoming her lover, there is a good chance that you will advance your romance with her. Make sure to check the Companion Approvals page to get her approvals. Aside from that, Saving the Nightsong will also result to an easier battle against Ketheric Thorm, but the fight will be taken beneath the Moonrise Towers, to the Mind Flayer Colony. This is where the second and final battle against Ketheric Thorm will take place.
+
+## SHADOWHEART KILLING NIGHTSONG ENDING DESCRIPTION
+
+When Shadowheart confronts the Nightsong, she tells Shadowheart that the only fate she's sealing is her own, that she will know no love, no joy, but only servitude. At this point, you sense Shadowheart's hesitation, and you may be able to sway her from the path of duty to the path of light. If you want the outcome of Shadowheart becoming Lady Justiciar, choose the second one.
+- Trust Shadowheart- do not interfere.
+- Do as you must.
+- Is this truly what you want?
+- Choose your own way, Shadoeheart. You cannot allow your goddess to control you.
+- Please, Shadowheart. Don't do this.
+
+Then your next choice should be the first one. However, if you choose the first one, Karlach will give you her disapproval, while Astarion will give his approval. 
+- Kill her. Let's finish this ritual.
+- [PERSUASION] Don't do it, Shadowheart. Don't kill her, you'll regret it.
+- She knows something about you. Spare her, and see what she has to say.
+- Say nothing.
+
+Shadowheart summons the Spear of Lady Shar and pierces Nightsong with it. Nightsong tells her that she is Shar's child after all as she feels true death, at last. Shortly after, Shadowheart will hear the voice of her goddess, Lady Shar. She calls out to her as her Chosen, her Warrior, and her Dark Justiciar. After this, Shadowheart will receive rewards from her. Lady Shar speaks of attacking Ketheric Thorm after he shunned her embrace and using her domain to house the Nightsong. If you follow this guide, killing Nightsong will complete the 'Find the Nightsong' quest.
+
+Shadowheart will receive the following rewards:
+- Dark Justiciar Gauntlets
+- Dark Justiciar Half-Plate
+- Dark Justiciar Mail
+- Dark Justiciar Boots
+- Shar's Spear of Evening
+
+## RESULTS AND CONSEQUENCES OF SHADOWHEART KILLING THE NIGHTSONG
+As Shadowheart embraces the will of Lady Shar and she becomes Shar's chosen, she will tell you that there will be no room for love now that she has become the Dark Justiciar. This will throw out any chances of romancing Shadowheart. Additionally, the following events will take place:
+- The Selunite Cleric named Isobel will perish during the battle, and the Last Light Inn will get attacked
+- Jaheira will die in battle
+- Dammon will die, preventing the player from earning Infernal Iron that can be used in Karlach's romance and personal quest
+- Art Cullagh will also die, preventing you to recruit Halsin and the famed bear form romance.
+
+
+# WYLL
+
+## Wyll's profile
+Race: Human	
+Gender: Male
+Class: Warlock	
+Subclass: The Fiend
+Background: Folk Hero	
+
+## WYLL'S ABILITIES
+
+STR: 8	
+INT: 13
+DEX: 13	
+WIS: 10
+CON: 14	
+CHA*: 17
+
+Wyll is a Companion in Baldur's Gate 3. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment. Companions can also be selected in the Character Creation screen allowing players to play from their point of view.
+Wyll made his name as a renowned hero in Baldur's Gate. But to become a living legend, he struck a bargain with a devil, a bargain from which he longs to break free before it consumes his soul for good.
+Noble by birth, Wyll made his name as the heroic 'Blade of Frontiers'. He keeps his pact with a devil well-hidden, and is desperate to escape the hellish bargain - even if that means rescuing the seductive creature that made the deal.
+ 
+
+## WHERE TO FIND WYLL
+Wyll will first be encountered during the Goblin Raid for Druid's Grove in Act I. The area would be directly north of the Ravaged Beach/Nautiloid Crash Site
+
+## WYLL'S STARTING EQUIPMENT
+- Padded Armour
+- Leather Boots
+- Rapier
+
+## WYLL'S STARTING SKILL PROFICIENCIES
+
+Arcana
+History
+Intimidation
+Persuasion
+ 
+
+BG3 WYLL VIDEO GUIDE
+ 
+
+BG3 WYLL QUEST WALKTHROUGH
+To complete Wyll's Questline, you must first meet him after winning the Battle against the Goblin raiding party attacking Druid's Grove. Upon finishing that, talk to him in the Training area past the massive gate where he would instructing the Tiefling Children in the basics of sword fighting. 
+
+Talking to him after his cutscene reveals he also has the Tadpole and gives you the option to recruit him as a companion. Wyll will mention his personal quest and upon joining the party will begin his companion quest:
+
+The Blade of Frontiers
+ 
+
+WYLL ROMANCE GUIDE FOR BG3
+Wyll becomes available for romance when a certain point of approval has been reached. (At the very least, Medium Approval). Below are the special conditions for pursuing it:
+
+Being able to access Wyll's Romance relies on helping him pursue his companion quest. 
+In the Early Access, this means trying to find Mizura but the Full release mentions a massive rewrite in Wyll's character.
+Either way, the first steps would need for the player to help Wyll with their Quest to both raise his approval but also his personal plot which allows him to open up more and deepen the relationship with the player.
+Second Important thing is to not choose to side with Wyll. Wyll will leave the player if s/he sides with the Goblins.
+After following with his personal quest, he will start to be more open with his past with the player during Camp at night.
+ 
+
+WYLL APPROVAL GUIDE IN BALDUR'S GATE 3
+If you are looking to befriend or romance Wyll, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+General Personality Tips
+
+The 2nd companion  with the easiest way to gain approval. This is due a lot of his positive approval instances is just simply doing heroic or good deeds which has a lot of opportunities.
+Does not like evil/bad deeds.
+Unlike Gale however, he has instances of moral weaknesses especially situations with the Goblins.
+In Gale's personal quest sticking by Wyll is a pretty straightforward way in gaining his approval.
+Will leave the player if the choice is made to side with the goblins.
+This part isn't defining the alignment of the Companion
+To avoid disapproval events, make sure the companion is Either left in camp or just far away from the dialogue.
+WARNING
+
+MASSIVE SPOILERS PAST THIS POINT. YOU HAVE BEEN WARNED
+
+NOTE: WYLL CHARACTER WILL BE REWRITTEN HEAVILY FOR FULL RELEASE. SO THE APPROVAL GUIDE CHANGE DRASTICALLY WITH FULL RELEASE.
+
+Check out our Companion Guide for all compiled approval instances
+
+Note this guide is a work in progress. The information below reflects what was available during Early Access. Some situations, flags and events may have changed. Please feel free to edit this page and contribute to the guide.
+
+Wyll Approval UP  Wyll Approval DOWN
+ 
+
+APPROVAL UP:
+
+Druid Grove
+
+Show Guex how to fight using athetics check
+Persuade Kagha to not kill Arabella
+Tell Kagha she is a monster in the dialogue after the Arabella event
+Play with Alfira or convince her to play her song or as a Bard help her finish the lyrics
+Convince Kagha to turn against the Shadow Druids when you reveal her conspiracy
+Tell Kagha you will fight her when revealing her conspiracy
+After stopping the ritual, talk to Zevlor about it and say you will help
+Inbetween Blighted Village Proper and Druid Grove
+
+Tell Scratch the dog that he can come to your Camp if his friend doesn't wake up
+Blighted Village
+
+Agree to Wyll's plan and that you will knock out the goblin Fezzerk
+Let wyll speak to Fezzerk
+Deliver the final blow to Fezzerk
+Risen Road/Waukeen's Rest
+
+ When you first meet Karlach, choose either dialogue that does not say you were sent by the paladins. After that, pass either Intimidation/Persuasion Check.
+Agree to help Karlach against Tyr Paladins.
+After agreeing to help Karlach, Tell Anders Straight to his face you will help her/Kill Him
+Using the Bard Persuade option with Rugan to give you their cargo
+After rescuing Counsellor Florrick , Agree to look for Duke Ravenguard
+Rescue Benryn in Waukeen's Rest. (When you open the door or destroy the blocking rubble. The fire will start to spread and you have Limited time to rescue Benryn)
+Sunlit Wetlands
+
+Help Auntie Ethel when she's confronted by Johl and Demir
+Find out Auntie Ethel is lying and Tell Johl and Demir you will help them find Mayrina with your encounter with them.
+Start a fight with Auntie Ethel by trying to rescue Mayrina
+ 
+
+Goblin Camp
+
+When Meeting Sentinel Olak in the Goblin Camp Entrance, Pass the Deceive/Nature option then say you "cant be serious", then fling poo at the guards. (Athletics check work inconsistently while "Can't be serious" works everytime)
+Win in Chicken Chase, convince Krolla to give your money without using illithid powers, Invite the Owlbear Cub to camp and then when you ask to take the Cub to camp from Krollo, use the Illithid power.
+Invite the Owlbear cub to the camp (Happens in the Goblin Camp and you must not kill the Owlbear in the Cave)
+Convince Krolla to give the Owlbear cub after talking to the Owlbear cub. Paying will not earn his approval. (Happens in the Goblin Camp and you must not kill the Owlbear in the Cave)
+Demand Novice crusher to kiss your foot instead with intimidation
+Use intimidation the 2nd time to force Novice Crusher to kiss your foot
+After telling Novice Crusher "I'd Sooner spit in your face" and then winning the fight, make him kiss your foot.
+After telling Novice Crusher "I'd Sooner spit in your face" and then winning the fight, try to finish him off. (Will start battle with the Entire Camp)
+In the Shattered Sanctum With Wyll in the Party, express interest in joining the game with the trio Goblins talking about the blade. They are located next to the left of the room with an open spiderpit. Facing The roome with Dror Ragzlin, it would on the current room's left. If you meet the religious goblin you in a cage then you are in the right direction
+During the convo with the goblin Trio, Wyll will tell the player to attack the trio of goblin. Agree with Wyll and enter combat. They are located next to the left of the room with an open spiderpit. Facing The roome with Dror Ragzlin, it would on the current room's left. If you meet the religious goblin you in a cage then you are in the right direction
+Tell Minthara you know the location of the grove but win the intelligence roll to hide the location.
+Start combat with Minthara
+After Finishing torturing Liam (Escaped or not), tell minthara the prisoner revealed the location and win the Deceit Check.
+Talk to True Soul Gut with Wyll and Attack
+When First meeting Halsin, Tell Him you will help him with the goblins
+Tell Halsin to stay in the Worg Pens
+Camp Celebration (Siding with the Tieflings and Druids)
+
+ (On very good, happy with and easily convinced by avatar) Talk to Wyll, ask if he’s alright -> he doesn’t unsettle you -> say you want to dance with him. He will decline (might be different if you tried to romance him before) but he will approve.
+Underdark
+
+Tell the Restless Myconid the truth about the parasite and that you seek safe passage.
+Help Baelen Bonecloak with his bag
+Last Light Imm
+
+Drink the wine Jaheira offers
+Camp/ 1 on 1 dialogue
+
+Ask him how he came to be the Blade of Frontiers.
+Choose the option "What act could be finer than saving a life? You must have felt proud." When he tells you how he became the Blade of Frontiers.
+During the first night dialogue at camp, tell him perhaps you're special, or at least your tadpoles are.
+Succeeding in convincing Lae'zel to Stand down during the first 1st tadpole dream evening.
+Saying you regret your choice after the 3rd dream
+Refuse The Devil/Cambion/Raphael's offer
+After the conversation with the devil, tell Wyll "Spare me parable, I have no intentions of taking the Deal"
+Pet Scratch the dog at camp.
+Pet owlbear and scratch when it becomes friends with Scratch (Must not have used Speak with Animals, Possible Bug as the scene with speak with animals technically you pet them both but no approval notif shows up)
+During Wyll's reveal dialogue about Mizura. Following choices give approval
+"All right - go ahead"
+"So you were tricked?"
+"I won't act like I wont take the offer"
+During Mizora's appearance at camp, tell Mizora "You better not lay a damned finger on Karlach."
+After Mizora's appearance, speaking to Wyll and asking him "How does it feel to be a devil?" followed by "Quite the handsome devil, if I do say so."
+Tell Arabella you found her parents dead.
+Keep Scratch after talking to the Sword Coast Couriers in Rivington about his ownership.
+ 
+
+WYLL INSPIRATIONS
+CHAPTER ONE
+
+Fate Worse than Death (Save Liam from his Goblin Torturers) (Do not kill liam by failing to torture him or if you successfully torture him. Give Liam a health potion)
+Protector of the Small (Save Mirkon From the Harpies)
+Snake Whisperer (Protect Arabella from Kagha and her serpent)
+The Bard with Nine Lives (Rescue Volo from the Goblin Camp)
+ 
+
+WYLL ENDINGS IN BALDUR'S GATE 3
+
+WYLL BREAKS THE CONTRACT AND BECOMES A HUMAN AGAIN
+
+ENDING REQUIREMENTS AND CONDITIONS:
+
+Set for camp to trigger the conversation with Mizora
+HOW TO OBTAIN ENDING:
+
+Encourage will to break the contract
+Keep Wyll alive until the very end
+ENDING DESCRIPTION
+
+It turns out that Mizora hasn't been forthcoming with her pact with Wyll. During Wyll's Pact cutscene, Mizora summons the Sisters of Justice- the adjudicators of diabolical contracts and bargains. Mizora reveals that she has come to bargain, and the Hells demand witness. Wyll is impatient and asks where is his father (The Duke of Ravengard) and how can he save him. Mizora then responds that the way is to bargain.
+
+Mizora then proceeds to show Wyll's contract and says that it is unbreakable. She goes on to tell you that she wants a life for a life. If Wyll wants to end the contract, then a sacrifice must be made. She offers Wyll two choices:
+
+She will reveal his father's location but he will pledge his life and soul to her and Archdevil Zariel, in an eternal pact.
+She will break Wyll's contract and he will be free, but his father will die.
+If you have Karlach in your party, she will speak up in retaliation but Mizora silences her. Now, you will get the following options:
+
+What will happen to Wyll's powers if he breaks the pact?
+Save your father, Wyll. The city will need him to help rebuild.
+Do the right thing. Give your soul so that your father can live.
+Break the pact. Wyll. You deserve your freedom.
+Let your father die. When the city is free, you can take his place.
+Choose the fourth one and Wyll will tell Mizora to break the pact. The contract burns right before your eyes and Mizora will tell you that she will stick around for 'the entertainment'. Despite what Mizora had told you, it turns out that Grand Duke Ravengard can still be saved. The only difference is that it will be more difficult to locate him but you can refer to this page for info: Rescue the Grand Duke. Additionally, Wyll will still be able to use his Warlock powers right until you defeat The Absolute in the final battle.
+
+Now that Wyll is a free man, he will be able to transform back into his original form later on in the final cutscene.
+
+ 
+
+WYLL TIPS AND NOTES
+Fire Warlock build
+Leather Helmet
+Leather Armour +1
+Metallic Gloves
+Spiderstep Boots
+Ritual Axe and Dragon's Grasp
+Neck: Amulet of Elemental Torment Ring: Ring of Poison Resistance Ring: Crusher's Ring
+Optional: Any Light Crossbow +1
+Early access: It's possible for Wyll to die during the goblin battle. He may also get stuck at the gate afterwards, repeating "you'll have plenty of time to thank me later" and never moving towards the training area or giving his recruitment dialogue. The only known way to fix this is by reloading an earlier save from before the battle and trying again. 
+Wyll has innate proficiency with rapiers
+Pursuing the Mizora Romance plate will make Wyll very pissed. Like going with this storyline is a constant source of Wyll disapproval
