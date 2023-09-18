@@ -11,6 +11,8 @@ st.set_page_config(
 st.image("./assets/splash.jpg", width=700)
 
 st.title("Baldur's Gate 3 AI Guide")
+
+st.markdown("Made by [Hai with ❤️](https://www.linkedin.com/in/haiphunghiem/)")
             
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
