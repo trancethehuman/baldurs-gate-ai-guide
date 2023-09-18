@@ -23,34 +23,28 @@ embed_model = OpenAIEmbedding(embed_batch_size=10)
 BALDURS_GATE_3_ALL_ACTS_METADATA = [
   {
     "act": 1,
-    "documents_path": "./documents/knowledge_base/act_1.txt",
+    "documents_path": "./documents/knowledge_base/act_1",
     "description": "Tips and guides for Baldur's Gate 3's Act 1.",
     "type": "quest"
   },
   {
     "act": 2,
-    "documents_path": "./documents/knowledge_base/act_2.txt",
+    "documents_path": "./documents/knowledge_base/act_2",
     "description": "Tips and guides for Baldur's Gate 3's Act 2.",
     "type": "quest"
   },
   {
     "act": 3,
-    "documents_path": "./documents/knowledge_base/act_3.txt",
+    "documents_path": "./documents/knowledge_base/act_3",
     "description": "Tips and guides for Baldur's Gate 3's Act 3.",
     "type": "quest"
   },
   {
     "act": 0,
-    "documents_path": "./documents/knowledge_base/companions.txt",
-    "description": "Tips and guides for Baldur's Gate 3's player companions.",
+    "documents_path": "./documents/knowledge_base/characters",
+    "description": "Tips and guides for Baldur's Gate 3's player companions and NPCs.",
     "type": "character"
   },
-  {
-    "act": 0,
-    "documents_path": "./documents/knowledge_base/npcs.txt",
-    "description": "Tips and guides for Baldur's Gate 3's NPCs.",
-    "type": "character"
-  }
 ]
 
 
@@ -108,8 +102,8 @@ if quests_guide_collection.count() == 0: # This means the Chroma collection (or 
       documents, storage_context=storage_context, service_context=service_context
   )
   
-  print("The LLM sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.LLM))
-  print("The Embedding model sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.EMBED))
+  # print("The LLM sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.LLM))
+  # print("The Embedding model sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.EMBED))
 
 # If the vectorstore has documents, load the existing index
 else:
@@ -129,7 +123,7 @@ if __name__ == "__main__":
     response = query_engine.query(user_query)
     retrieved_nodes = response.source_nodes
     print(response)
-    for i, source_node in enumerate(response.source_nodes):
-      print(f"Source node {i+1}: {source_node.node.get_content()}")
+    # for i, source_node in enumerate(response.source_nodes):
+    #   print(f"Source node {i+1}: {source_node.node.get_content()}")
   
   
