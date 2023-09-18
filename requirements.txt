@@ -3,3 +3,4 @@ streamlit
 chromadb
 python-dotenv
 supabase
+pysqlite3
