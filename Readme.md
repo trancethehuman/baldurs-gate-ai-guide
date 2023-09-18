@@ -18,4 +18,4 @@ As you travel through Faerûn, bring this trusted AI guide with you for tips whe
 
 ## Technical details
 
-- Query engine in Llama Index, documents are loaded and embedded into Chroma. Streamlit frontend, and optional Supabase for logging messages.
+- Query engine in Llama Index, documents are loaded and embedded into FAISS (initially used Chroma, but had SQLite compatibility issues on Streamlit). Streamlit frontend, and optional Supabase for logging messages.
