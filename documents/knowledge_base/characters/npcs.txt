@@ -810,24 +810,94 @@ In the time since his revival he has been busy at work reclaiming territories an
 
 ## WHERE TO FIND KETHERIC THORM
 Can be found at:
-- Act 2: Shadow-Cursed Lands
-Moonrise Towers
-Throne Room
-Mind Flayer Colony
-Moonrise Towers Rooftop
+- Act 2: Shadow-Cursed Lands, Moonrise Towers, Throne Room, Mind Flayer Colony, Moonrise Towers Rooftop
  
 
-KETHERIC THORM QUESTS
-Defeat Ketheric Thorm
-Infiltrate Moonrise Towers
-Capture Isobel the Selûnite Cleric
-Find Ketheric Thorm's Relic
-Resolve the Abduction
- 
+## KETHERIC THORM QUESTS
+- Defeat Ketheric Thorm
+- Infiltrate Moonrise Towers
+- Capture Isobel the Selûnite Cleric
+- Find Ketheric Thorm's Relic
+- Resolve the Abduction
 
-KETHERIC THORM DIALOGUE OPTIONS
- 
-
-KETHERIC THORM NOTES AND TIPS
+## KETHERIC THORM NOTES AND TIPS
 Ketheric Thorm is voiced by legendary screen actor, J.K. Simmons
 Should you choose to fight him, Ketheric Thorm drops several pieces of loot upon his defeat: Reaper's Embrace (Very Rare Heavy Armor), Ketheric's Warhammer (Rare), and Ketheric's Shield (Rare)
+
+## KETHERIC THORM BOSS TIPS
+The fight against Ketheric Thorm is broken down into three distinct segments.  Each phase of the fight works differently...
+All adds mentioned in the fight overview will have full breakdowns of their stats and abilities detailed below under the Notes and Tips section.
+Positioning and party composition will be rather important for not only this fight but also the interim when exploring and fighting creatures in the Mind Flayer Colony in between the first phase of the fight and the second.  This is especially crucial as you will NOT be able to Long Rest at ANY point during this section of the game, instead having to rely on potions and elixirs like Potion of Angelic Slumber and Elixir of Arcane Cultivation (Normal, Greater, and/or Superior).
+Before the final descent to confront Ketheric and initiate Phase 2 (or Phase 3, depending on your dialogue choices and Persuasion Checks) you will find a Neural Apparatus like those found on the Nautiloid in the prologue of the game.  This will have the added benefit of replenishing all of your spell slots and health points as would a Long Rest. 
+You can actually cheese the Neural Apparatus by getting all your spells back, casting whatever personal or party buffs you need to in yourself and/or your companions, and then use the machine again to regain the used spell slot while still retaining whatever spell or ability was cast as they will carry over.
+
+### PHASE 1: ROOFTOP
+Fighting alongside Ketheric are a number of adds including Squire, The General's War-Hound, Susdera, Mistress of Souls, and eight Necromites.
+After completing the first phase of the fight you'll have one last moment of respite and reprieve.  Use this time to take one final Long Rest and sort out your inventory, party composition, spell preparation, etc. 
+Also, if Jaheira has survived everything up until now you should be able to recruit her a fully-fledged member of your party, regardless of whether you choose to take her with you through the remaining gauntlet of combat encounters in the Mind Flayer Colony or not.
+Furthermore, if you looted the Dark Mind and Slave Mind from the prologue mission on the Nautoloid and kept them all this time, make sure to bring those along with you as you'll be able to use them in the Mind Flayer puzzle room (Necrotic Laboratory).
+
+### PHASE 2: MIND FLAYER COLONY
+Just like in the first encounter, Ketheric is aided by adds including a Mind Flayer and four Necromites to start.
+Casting spells like Command - Halt, Hold Person, or Silence over Ketheric will temporarily take him out of play for a few turns while you focus fire on the Mind Flayer. 
+
+### PHASE 3: APOSTLE OF MYRKUL
+Regardless of whether you convince Ketheric to atone for his sins or simply bring his health down all the way, he will initiate the third and final phase of this fight.
+You'll be introduced to Ketheric's patron, the god of death himself, Myrkul.  From here you'll need to defeat an amalgamation of bone called the Apostle of Myrkul.  After which, Ketheric's body will be returned, allowing you to loot him after he shares with you his dying words.
+If you chose to save the Nightsong during the climax of the Gauntlet of Shar and Shadowfell storyline you'll have been rewarded with the Moonlight Glaive.  Equipping this weapon on a character like Karlach can practically trivialize the fight against the Apostle since it applies Moonlight Butterflies (essentially Faerie Fire) without the need for any of your party members to take up and maintain a concentration spell, or risk having it interrupted by failing a CON save upon taking damage.  Moreover, there's an increased likelihood of applying the glaive's Moonlight Butterflies given a barbarian's Reckless Swing and the fact it relies on an Attack Roll rather than a Saving Throw.
+Combining this debuff on the boss while applying buffs on your party such as Haste or Potion of Speed will aid in your ability to nuke the boss' health with a flurry of multiple attacks per character every turn during combat.
+In the event you didn't save Nightsong then using debuffs like Hex or Bestow Curse can help soften up the Apostle and set up a higher success rate in applying a spell like Faerie Fire on the boss, before finally leaning into it with damage output attacks, spells, and abilities.
+
+## KETHERIC THORM GENERAL INFORMATION
+- Race: Undead Half-Elf
+- Health: 145
+- AC: 22
+- Base speed: 0m
+- Size: Medium
+- Weight: 75kg
+
+## KETHERIC THORM CONDITIONS
+- Aura of Protection
+- Aura of Hate
+
+## KETHERIC THORM NOTABLE FEATURES
+- Arcane Enchantment
+- Darkvision
+- Defence
+- Divine Health
+- Extra Attack
+- Fey Ancestry
+- Immutable Form
+- Improved Divine Strike
+- Magical Plate
+- Opportunity Attack
+- Reaper's Rigidity
+- Shield Bash
+
+## KETHERIC THORM ABILITIES
+- Strength: 18
+- Dexterity: 13
+- Constitution: 17
+- Intelligence: 12
+- Wisdom: 15
+- Charisma: 20
+- Proficiency Bonus: +4
+- Initiative: +1
+
+## KETHERIC THORM ATTACKS & SPELLS
+- Deadly Orders
+- Divine Smite
+- Incubate Death
+ 
+
+KETHERIC THORM RESISTANCES
+- Slashing Resistance
+- Piercing Resistance
+- Bludgeoning Resistance
+
+
+## KETHERIC THORM REWARDS
+- ???XP	Ring of Exalted Marrow (Rare)	Reaper's Embrace (Very Rare)
+- Ketheric's Warhammer (Rare)	Ketheric's Shield (Rare)	Netherstone (Legendary)
+
+Ring of Exalted Marrow - lootable from a chest on the rooftop once the first phase of the fight is over.  The chest is located right in front of Ketheric's throne (X:-152, Y:-169).  You' can either use the Bone Key looted off of Susdera to OR lockpick the chest to retrieve the ring.
