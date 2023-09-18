@@ -3,3 +3,4 @@ streamlit
 chromadb
 python-dotenv
 supabase
+sqlite3==3.35.0
