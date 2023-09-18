@@ -8,7 +8,7 @@ from vectorstore import query_engine
 st.set_page_config(
     page_title="Baldur's Gate 3 AI Guide", page_icon="🧙‍♀️")
 
-st.image("./assets/splash.png", width=500)
+st.image("./assets/splash.png", width=650)
 
 st.markdown("Open-source and free on [GitHub](https://github.com/trancethehuman/baldurs-gate-ai-guide/)")
 
