@@ -63,7 +63,7 @@ vector_store = FaissVectorStore(faiss_index=faiss_index)
 
 storage_context = StorageContext.from_defaults(vector_store=vector_store)
 service_context = ServiceContext.from_defaults(embed_model=embed_model, node_parser=node_parser)
-service_context_query_engine = ServiceContext.from_defaults(llm=OpenAI(model="gpt-3.5-turbo", temperature=0))
+service_context_query_engine = ServiceContext.from_defaults(llm=OpenAI(model="gpt-4", temperature=0))
 
 index = None
 
