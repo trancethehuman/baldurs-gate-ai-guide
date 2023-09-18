@@ -14,7 +14,7 @@ As you travel through Faerûn, bring this trusted AI guide with you for tips whe
 
 ## Source materials
 
-- Documents are scraped from [Baldur's Gate III Wiki](https://baldursgate3.wiki.fextralife.com/Baldur's+Gate+3+Wiki)
+- Documents are copied by hand from [Baldur's Gate III Wiki](https://baldursgate3.wiki.fextralife.com/Baldur's+Gate+3+Wiki)
 
 ## Technical details
 
