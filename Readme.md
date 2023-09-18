@@ -2,7 +2,7 @@
 
 <img src="./assets/splash.jpg" width="600"/>
 
-As you travel through Faerûn, bring this trusted AI guide with you for spoiler-free tips when you're stuck.
+As you travel through Faerûn, bring this trusted AI guide with you for tips when you're stuck.
 
 ## Use cases
 
