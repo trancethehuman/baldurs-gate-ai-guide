@@ -1,6 +1,6 @@
 # Baldur's Gate 3 AI Guide
 
-<img src="./assets/splash.jpg" width="600"/>
+<img src="./assets/splash.png" width="600"/>
 
 As you travel through Faerûn, bring this trusted AI guide with you for tips when you're stuck.
 

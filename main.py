@@ -8,11 +8,11 @@ from vectorstore import query_engine
 st.set_page_config(
     page_title="Baldur's Gate 3 AI Guide", page_icon="🧙‍♀️")
 
-st.image("./assets/splash.jpg", width=700)
+st.image("./assets/splash.png", width=500)
 
-st.title("Baldur's Gate 3 AI Guide")
+st.markdown("Open-source and free on [GitHub](https://github.com/trancethehuman/baldurs-gate-ai-guide/)")
 
-st.markdown("Made by [Hai with ❤️](https://www.linkedin.com/in/haiphunghiem/)")
+st.markdown("Made by Hai ([follow me on LinkedIn](https://www.linkedin.com/in/haiphunghiem/) and [YouTube](https://www.youtube.com/channel/UC3xGUI2ENj-86adpm-USKbg))")
             
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
