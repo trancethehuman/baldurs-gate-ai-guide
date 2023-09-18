@@ -1,21 +1,25 @@
 import os
 
-import chromadb
+import faiss
 import openai
 from dotenv import load_dotenv
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
-from llama_index import (Document, ServiceContext, SimpleDirectoryReader,
-                         VectorStoreIndex)
+from llama_index import (Document, ServiceContext, StorageContext,
+                         VectorStoreIndex, load_index_from_storage)
 from llama_index.embeddings import LangchainEmbedding, OpenAIEmbedding
 from llama_index.llms import OpenAI
 from llama_index.node_parser import SimpleNodeParser
 from llama_index.schema import MetadataMode
 from llama_index.storage.storage_context import StorageContext
-from llama_index.vector_stores import ChromaVectorStore
+from llama_index.vector_stores.faiss import FaissVectorStore
 
 load_dotenv()
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
+
+# dimensions of text-ada-embedding-002
+d = 1536
+faiss_index = faiss.IndexFlatL2(d)
 
 node_parser = SimpleNodeParser.from_defaults(chunk_size=1300, chunk_overlap=200)
 
@@ -51,9 +55,11 @@ BALDURS_GATE_3_ALL_ACTS_METADATA = [
 
 # Create a new Chroma Database and save to disk
 print("Loading or Creating Chroma Database")
-db = chromadb.PersistentClient(path="./chroma_db") # ToDo: Maybe change this to Chroma Reader?
-quests_guide_collection = db.get_or_create_collection("baldurs_gate_3_quests_guide")
-vector_store = ChromaVectorStore(chroma_collection=quests_guide_collection)
+# db = chromadb.PersistentClient(path="./chroma_db") # ToDo: Maybe change this to Chroma Reader?
+# quests_guide_collection = db.get_or_create_collection("baldurs_gate_3_quests_guide")
+# vector_store = ChromaVectorStore(chroma_collection=quests_guide_collection)
+
+vector_store = FaissVectorStore(faiss_index=faiss_index)
 
 storage_context = StorageContext.from_defaults(vector_store=vector_store)
 service_context = ServiceContext.from_defaults(embed_model=embed_model, node_parser=node_parser)
@@ -62,7 +68,7 @@ service_context_query_engine = ServiceContext.from_defaults(llm=OpenAI(model="gp
 index = None
 
 # If the vectorstore doesn't have any documents, create a new index
-if quests_guide_collection.count() == 0: # This means the Chroma collection (or index) is brand new
+if not os.path.isdir("./storage"): # This means the Chroma collection (or index) is brand new
   print("Started loading documents using Llama Index")
   
   documents = []
@@ -106,14 +112,18 @@ if quests_guide_collection.count() == 0: # This means the Chroma collection (or 
   
   # print("The LLM sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.LLM))
   # print("The Embedding model sees this: \n", documents[0].get_content(metadata_mode=MetadataMode.EMBED))
+  
+  # save index to disk
+  index.storage_context.persist()
 
 # If the vectorstore has documents, load the existing index
 else:
   print("Started loading vectorstore using Llama Index")
-  index = VectorStoreIndex.from_vector_store(
-      vector_store,
-      service_context=service_context,
+  vector_store = FaissVectorStore.from_persist_dir("./storage")
+  storage_context = StorageContext.from_defaults(
+      vector_store=vector_store, persist_dir="./storage"
   )
+  index = load_index_from_storage(storage_context=storage_context)
 
 # Query Data
 print("Initialize query engine")
@@ -125,7 +135,7 @@ if __name__ == "__main__":
     user_query = input("\nEnter your query: ")
     response = query_engine.query(user_query)
     retrieved_nodes = response.source_nodes
-    # print(response)
+    print(response)
     
     # response.print_response_stream()
     

@@ -1,6 +1,5 @@
 llama-index
 streamlit
-chromadb
+faiss-cpu
 python-dotenv
 supabase
-pysqlite3
