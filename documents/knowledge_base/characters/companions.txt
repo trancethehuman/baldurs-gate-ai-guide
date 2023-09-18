@@ -61,7 +61,7 @@ You're on the right track with Astarion if when you talk to him, he forwardly ca
 ## ASTARION APPROVAL GUIDE
 If you are looking to befriend or romance Astarion, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
 
-General Personality Tips
+## Astarion General Personality Tips
 - Astarion enjoys making fun of people, especially when it's cruel.
 - He especially enjoys the suffering of others.
 - Astarion will like good deeds if it is funny enough for his sense of humor (Like Rescue a Hostage victim and then Extort him or Help Karlach not because it is the right deed but in his words "Are you agreeing to commit murder for someone you barely know? Count me in." 
@@ -543,7 +543,7 @@ You're on the right track with Gale if you find him in camp with an exclamation 
 ## GALE APPROVAL GUIDE
 If you are looking to befriend or romance Gale, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
 
-## General Personality Tips
+## Gale General Personality Tips
 Is arguably the most morally upstanding companion (as of early access) and thus the easiest person to gain approval by simply helping out, and committing to doing side quests.
 Likes helping people and all around good deeds.
 Hates bad deeds (As of early access). Unlike other companions, he dislikes most if not all morally questionable deeds and has the most instances of disapproval from them.
@@ -622,7 +622,7 @@ As mentioned, following this route will have Shadowheart turn away from her devo
 ## SHADOWHEART APPROVAL GUIDE
 If you are looking to befriend or romance Shadowheart, you will have to get her approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
 
-## General Personality Tips
+## Shadowheart General Personality Tips
 - Really enjoys privacy and boundaries but rewards curiosity. She appreciates when space is given to her and when people don't pry too much.
 - Has a heart of gold under the tough exterior, and values peaceful resolutions rather than brute force. She'll appreciate using deception, wit, and persuasion to arrive at these resolutions.
 - Hates acts of unnecessary cruelty.
@@ -746,39 +746,28 @@ Wyll will first be encountered during the Goblin Raid for Druid's Grove in Act I
 - Rapier
 
 ## WYLL'S STARTING SKILL PROFICIENCIES
+- Arcana
+- History
+- Intimidation
+- Persuasion
 
-Arcana
-History
-Intimidation
-Persuasion
- 
-
-BG3 WYLL VIDEO GUIDE
- 
-
-BG3 WYLL QUEST WALKTHROUGH
+## WYLL QUEST WALKTHROUGH
 To complete Wyll's Questline, you must first meet him after winning the Battle against the Goblin raiding party attacking Druid's Grove. Upon finishing that, talk to him in the Training area past the massive gate where he would instructing the Tiefling Children in the basics of sword fighting. 
-
 Talking to him after his cutscene reveals he also has the Tadpole and gives you the option to recruit him as a companion. Wyll will mention his personal quest and upon joining the party will begin his companion quest:
+- The Blade of Frontiers
 
-The Blade of Frontiers
- 
-
-WYLL ROMANCE GUIDE FOR BG3
+## WYLL ROMANCE GUIDE
 Wyll becomes available for romance when a certain point of approval has been reached. (At the very least, Medium Approval). Below are the special conditions for pursuing it:
-
 Being able to access Wyll's Romance relies on helping him pursue his companion quest. 
 In the Early Access, this means trying to find Mizura but the Full release mentions a massive rewrite in Wyll's character.
 Either way, the first steps would need for the player to help Wyll with their Quest to both raise his approval but also his personal plot which allows him to open up more and deepen the relationship with the player.
 Second Important thing is to not choose to side with Wyll. Wyll will leave the player if s/he sides with the Goblins.
 After following with his personal quest, he will start to be more open with his past with the player during Camp at night.
- 
 
-WYLL APPROVAL GUIDE IN BALDUR'S GATE 3
+## WYLL APPROVAL GUIDE
 If you are looking to befriend or romance Wyll, you will have to get his approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
 
-General Personality Tips
-
+## Wyll General Personality Tips
 The 2nd companion  with the easiest way to gain approval. This is due a lot of his positive approval instances is just simply doing heroic or good deeds which has a lot of opportunities.
 Does not like evil/bad deeds.
 Unlike Gale however, he has instances of moral weaknesses especially situations with the Goblins.
@@ -786,123 +775,20 @@ In Gale's personal quest sticking by Wyll is a pretty straightforward way in gai
 Will leave the player if the choice is made to side with the goblins.
 This part isn't defining the alignment of the Companion
 To avoid disapproval events, make sure the companion is Either left in camp or just far away from the dialogue.
-WARNING
-
-MASSIVE SPOILERS PAST THIS POINT. YOU HAVE BEEN WARNED
-
-NOTE: WYLL CHARACTER WILL BE REWRITTEN HEAVILY FOR FULL RELEASE. SO THE APPROVAL GUIDE CHANGE DRASTICALLY WITH FULL RELEASE.
-
-Check out our Companion Guide for all compiled approval instances
-
-Note this guide is a work in progress. The information below reflects what was available during Early Access. Some situations, flags and events may have changed. Please feel free to edit this page and contribute to the guide.
-
-Wyll Approval UP  Wyll Approval DOWN
  
 
-APPROVAL UP:
+## WYLL ENDINGS
 
-Druid Grove
-
-Show Guex how to fight using athetics check
-Persuade Kagha to not kill Arabella
-Tell Kagha she is a monster in the dialogue after the Arabella event
-Play with Alfira or convince her to play her song or as a Bard help her finish the lyrics
-Convince Kagha to turn against the Shadow Druids when you reveal her conspiracy
-Tell Kagha you will fight her when revealing her conspiracy
-After stopping the ritual, talk to Zevlor about it and say you will help
-Inbetween Blighted Village Proper and Druid Grove
-
-Tell Scratch the dog that he can come to your Camp if his friend doesn't wake up
-Blighted Village
-
-Agree to Wyll's plan and that you will knock out the goblin Fezzerk
-Let wyll speak to Fezzerk
-Deliver the final blow to Fezzerk
-Risen Road/Waukeen's Rest
-
- When you first meet Karlach, choose either dialogue that does not say you were sent by the paladins. After that, pass either Intimidation/Persuasion Check.
-Agree to help Karlach against Tyr Paladins.
-After agreeing to help Karlach, Tell Anders Straight to his face you will help her/Kill Him
-Using the Bard Persuade option with Rugan to give you their cargo
-After rescuing Counsellor Florrick , Agree to look for Duke Ravenguard
-Rescue Benryn in Waukeen's Rest. (When you open the door or destroy the blocking rubble. The fire will start to spread and you have Limited time to rescue Benryn)
-Sunlit Wetlands
-
-Help Auntie Ethel when she's confronted by Johl and Demir
-Find out Auntie Ethel is lying and Tell Johl and Demir you will help them find Mayrina with your encounter with them.
-Start a fight with Auntie Ethel by trying to rescue Mayrina
- 
-
-Goblin Camp
-
-When Meeting Sentinel Olak in the Goblin Camp Entrance, Pass the Deceive/Nature option then say you "cant be serious", then fling poo at the guards. (Athletics check work inconsistently while "Can't be serious" works everytime)
-Win in Chicken Chase, convince Krolla to give your money without using illithid powers, Invite the Owlbear Cub to camp and then when you ask to take the Cub to camp from Krollo, use the Illithid power.
-Invite the Owlbear cub to the camp (Happens in the Goblin Camp and you must not kill the Owlbear in the Cave)
-Convince Krolla to give the Owlbear cub after talking to the Owlbear cub. Paying will not earn his approval. (Happens in the Goblin Camp and you must not kill the Owlbear in the Cave)
-Demand Novice crusher to kiss your foot instead with intimidation
-Use intimidation the 2nd time to force Novice Crusher to kiss your foot
-After telling Novice Crusher "I'd Sooner spit in your face" and then winning the fight, make him kiss your foot.
-After telling Novice Crusher "I'd Sooner spit in your face" and then winning the fight, try to finish him off. (Will start battle with the Entire Camp)
-In the Shattered Sanctum With Wyll in the Party, express interest in joining the game with the trio Goblins talking about the blade. They are located next to the left of the room with an open spiderpit. Facing The roome with Dror Ragzlin, it would on the current room's left. If you meet the religious goblin you in a cage then you are in the right direction
-During the convo with the goblin Trio, Wyll will tell the player to attack the trio of goblin. Agree with Wyll and enter combat. They are located next to the left of the room with an open spiderpit. Facing The roome with Dror Ragzlin, it would on the current room's left. If you meet the religious goblin you in a cage then you are in the right direction
-Tell Minthara you know the location of the grove but win the intelligence roll to hide the location.
-Start combat with Minthara
-After Finishing torturing Liam (Escaped or not), tell minthara the prisoner revealed the location and win the Deceit Check.
-Talk to True Soul Gut with Wyll and Attack
-When First meeting Halsin, Tell Him you will help him with the goblins
-Tell Halsin to stay in the Worg Pens
-Camp Celebration (Siding with the Tieflings and Druids)
-
- (On very good, happy with and easily convinced by avatar) Talk to Wyll, ask if he’s alright -> he doesn’t unsettle you -> say you want to dance with him. He will decline (might be different if you tried to romance him before) but he will approve.
-Underdark
-
-Tell the Restless Myconid the truth about the parasite and that you seek safe passage.
-Help Baelen Bonecloak with his bag
-Last Light Imm
-
-Drink the wine Jaheira offers
-Camp/ 1 on 1 dialogue
-
-Ask him how he came to be the Blade of Frontiers.
-Choose the option "What act could be finer than saving a life? You must have felt proud." When he tells you how he became the Blade of Frontiers.
-During the first night dialogue at camp, tell him perhaps you're special, or at least your tadpoles are.
-Succeeding in convincing Lae'zel to Stand down during the first 1st tadpole dream evening.
-Saying you regret your choice after the 3rd dream
-Refuse The Devil/Cambion/Raphael's offer
-After the conversation with the devil, tell Wyll "Spare me parable, I have no intentions of taking the Deal"
-Pet Scratch the dog at camp.
-Pet owlbear and scratch when it becomes friends with Scratch (Must not have used Speak with Animals, Possible Bug as the scene with speak with animals technically you pet them both but no approval notif shows up)
-During Wyll's reveal dialogue about Mizura. Following choices give approval
-"All right - go ahead"
-"So you were tricked?"
-"I won't act like I wont take the offer"
-During Mizora's appearance at camp, tell Mizora "You better not lay a damned finger on Karlach."
-After Mizora's appearance, speaking to Wyll and asking him "How does it feel to be a devil?" followed by "Quite the handsome devil, if I do say so."
-Tell Arabella you found her parents dead.
-Keep Scratch after talking to the Sword Coast Couriers in Rivington about his ownership.
- 
-
-WYLL INSPIRATIONS
-CHAPTER ONE
-
-Fate Worse than Death (Save Liam from his Goblin Torturers) (Do not kill liam by failing to torture him or if you successfully torture him. Give Liam a health potion)
-Protector of the Small (Save Mirkon From the Harpies)
-Snake Whisperer (Protect Arabella from Kagha and her serpent)
-The Bard with Nine Lives (Rescue Volo from the Goblin Camp)
- 
-
-WYLL ENDINGS IN BALDUR'S GATE 3
-
-WYLL BREAKS THE CONTRACT AND BECOMES A HUMAN AGAIN
+### WYLL BREAKS THE CONTRACT AND BECOMES A HUMAN AGAIN
 
 ENDING REQUIREMENTS AND CONDITIONS:
+- Set for camp to trigger the conversation with Mizora
 
-Set for camp to trigger the conversation with Mizora
-HOW TO OBTAIN ENDING:
+### HOW TO OBTAIN ENDING:
+- Encourage Wyll to break the contract
+- Keep Wyll alive until the very end
 
-Encourage will to break the contract
-Keep Wyll alive until the very end
-ENDING DESCRIPTION
+## WYLL'S ENDING DESCRIPTION
 
 It turns out that Mizora hasn't been forthcoming with her pact with Wyll. During Wyll's Pact cutscene, Mizora summons the Sisters of Justice- the adjudicators of diabolical contracts and bargains. Mizora reveals that she has come to bargain, and the Hells demand witness. Wyll is impatient and asks where is his father (The Duke of Ravengard) and how can he save him. Mizora then responds that the way is to bargain.
 
@@ -913,25 +799,226 @@ She will break Wyll's contract and he will be free, but his father will die.
 If you have Karlach in your party, she will speak up in retaliation but Mizora silences her. Now, you will get the following options:
 
 What will happen to Wyll's powers if he breaks the pact?
-Save your father, Wyll. The city will need him to help rebuild.
-Do the right thing. Give your soul so that your father can live.
-Break the pact. Wyll. You deserve your freedom.
-Let your father die. When the city is free, you can take his place.
+- Save your father, Wyll. The city will need him to help rebuild.
+- Do the right thing. Give your soul so that your father can live.
+- Break the pact. Wyll. You deserve your freedom.
+- Let your father die. When the city is free, you can take his place.
+
 Choose the fourth one and Wyll will tell Mizora to break the pact. The contract burns right before your eyes and Mizora will tell you that she will stick around for 'the entertainment'. Despite what Mizora had told you, it turns out that Grand Duke Ravengard can still be saved. The only difference is that it will be more difficult to locate him but you can refer to this page for info: Rescue the Grand Duke. Additionally, Wyll will still be able to use his Warlock powers right until you defeat The Absolute in the final battle.
 
 Now that Wyll is a free man, he will be able to transform back into his original form later on in the final cutscene.
 
  
 
-WYLL TIPS AND NOTES
-Fire Warlock build
-Leather Helmet
-Leather Armour +1
-Metallic Gloves
-Spiderstep Boots
-Ritual Axe and Dragon's Grasp
-Neck: Amulet of Elemental Torment Ring: Ring of Poison Resistance Ring: Crusher's Ring
-Optional: Any Light Crossbow +1
+## WYLL TIPS AND NOTES
+Fire Warlock build:
+- Leather Helmet
+- Leather Armour +1
+- Metallic Gloves
+- Spiderstep Boots
+- Ritual Axe and Dragon's Grasp
+- Neck: Amulet of Elemental Torment Ring: Ring of Poison Resistance Ring: Crusher's Ring
+- Optional: Any Light Crossbow +1
+
 Early access: It's possible for Wyll to die during the goblin battle. He may also get stuck at the gate afterwards, repeating "you'll have plenty of time to thank me later" and never moving towards the training area or giving his recruitment dialogue. The only known way to fix this is by reloading an earlier save from before the battle and trying again. 
 Wyll has innate proficiency with rapiers
 Pursuing the Mizora Romance plate will make Wyll very pissed. Like going with this storyline is a constant source of Wyll disapproval
+
+# KARLACH
+
+## Karlach's profile
+STR: 17
+DEX: 13
+CON: 15
+INT: 8
+WIS: 12
+CHA: 10
+					
+Class: barbarian
+Race: Zariel Tiefling
+Background: Outlander
+Initiative: +1
+Movement Speed: 9m
+Darkvision Range: 12m
+Type: Humanoid
+Size: Medium
+Weight: 90kg
+Carrying Capacity: 210kg
+TAGS: Baldurian, Zariel Tiefling, Tiefling, Humanoid, Karlach, Barbarian
+Karlach is a Companion in Baldur's Gate 3. BG3 Karlach is found in The Risen Road, past the Blighted Village. She is a Zariel Tiefling Barbarian. See Hunt the Devil for Karlach's personal questline. Companions assist the player by joining their party and have their own backstories and unique characteristics. They all have their own Classes and starting equipment, but you can change their classes via Respec in camp. Companions can also be selected as an Origin in the Character Creation screen allowing players to play from their point of view.
+"I was a prisoner, forced to fight in the Blood War. The eternal battle between bad and worse."
+
+## WHERE TO FIND KARLACH IN BG3
+
+Karlach can be found in The Risen Road. Make your way through the Blighted Village, past the Gnome that is tied to the windmill, and jump across the gap in the bridge. Head down the road to your right, fight your way through the Hyenas and Gnolls, and continue down to the river where you will see blood on the ground and Karlach resting on the opposite side of the river.
+
+## EARLY KARLACH SHORTCUT FROM EMERALD/DRUID GROVE
+In Act I, Go to Zevlor's room named the Secluded Chamber, from there use the ladder going up where you will find a Tiefling Zentry and overlooking the Risen Road area. When you reach the cliff facing the Risen Road, to your right you will find a climable slope and at the top is a chest containing some items. Once you find the chest. In this Area, you can jump down to Karlach's area directly below and you can most likely see her at this point.
+Either get a character or characters that can survive the fall or if you have the Feather Fall spell, use it to negate Fall damage. You will land directly to the riverbank where Karlach is wounded and recruit her. After in which you can teleport back to druid's grove if you so wish.
+Easier way is to head to Scratch then to the log north-east. You will see river next to it. If you come to the edge, you will be able to jump onto the rock in the middle and then to the other side of the river. Next simply follow the river east, till you see blood on the ground, which will lead you to Karlach.
+
+## KARLACH'S STARTING EQUIPMENT
+- Armour
+- Boots
+- Greataxe
+- Crossbow
+ 
+## KARLACH'S STARTING SKILL PROFICIENCIES
+- Athletics
+- Perception
+- Survival
+- Intimidation
+
+## KARLACH QUEST WALKTHROUGH
+To complete Karlach's questline, you'll first have to recruit her into your party. This can be done by exploring the Risen Road area, past the Blighted Village. Recruiting her will begin the quest:
+- Hunt the Devil
+
+## HOW TO ROMANCE KARLACH
+In this Karlach Romance Guide, we explore the general path toward gaining Karlach's approval and what opportunities you have to share some moments with her. This will be updated as more is revealed throughout the game. Gaining Karlach's approval centers around being forthcoming and somewhat heroic - showing compassion toward the wronged and almost uncompromising good. This might put decisions that will gain her approval at odds with other Companions like Shadowheart and Lae'Zel.
+Additionally, her background (as someone who just escaped the Hells) attunes her towards outgoing people who take actions that express their love of life. As with all the Companions, whenever you can talk to Karlach, always scour the dialogue options for any new options, again still following the general guidelines above, where she'll slowly open up to you about things that will help you deepen your bond with her further and further. Karlach is one of the easier Companions to create a bond with as she is not too closed off or secretive. Part of this dynamic will be the fact that anyone she touches gets burned, which will have her yearning for your physical affection when you start being open about your feelings toward one another. She'll be sincere and upfront with her affection for you, so you only need to be the same.
+
+## KARLACH ROMANCE GUIDE ACT I
+Your relationship with Karlach can officially begin during Act I even before the Quest Save the Refugees, unlike how it was in Early Access. Keeping the general guidelines in mind above, and eventually getting her approval high enough, players may approach her at the camp for a talk. At this point, your approval rating with her should be High so try to explore and do a lot of other things before tackling the Quest for more chances to get your approval up, if it's still lacking at this point. One surefire way to increase affection with her is to follow her Companion Quest. This entails finding Infernal Iron and bringing it to the Tiefling Dammon. Eventually, this will let you speak to her at camp and offer to have an idea to help with her little fire problem. Afterward, use any Spell or Action that creates ice or water and direct it at Karlach. You can also do the same thing with a water barrel or anything similar you can interact with. Talk to her again and choose to test things out with a kiss. It's important to note that while it might not be a certainty, this might count as an attempt at romance already, and so while your relationship hasn't officially started by any means, it might lock you out of pursuing other Companions.
+To romance Karlach, players only need to be forward with wanting to spend more time with her. As mentioned previously, she will have no pretense about responding to your affections. Choose the appropriate responses to flirt with her and hint at wanting to risk the pain to be able to touch her. Afterward, head to your bedroll and interact with it to see that you have a choice to go to bed alone or to think of Karlach. By clicking on Karlach, players share a moment with her right there on their bunk. You'll try and share a more prolonged intimate moment together before she'll stop you for fear of hurting you further. As previously mentioned, just keep being forward with her about your feelings, and don't be afraid to express your affection to officially start your tense, yearning relationship with her.
+
+## KARLACH ROMANCE GUIDE ACT II
+Act II will eventually allow you to progress further with the Companion Quest. For this to work, make sure to spare Nightsong during the events at the Gauntlet of Shar, as Dammon is one of the NPCs who will get affected by the consequences of letting her die, which can prevent you from bringing him Infernal Iron to help Karlach out. Assuming he's fine, in accordance with your actions, Dammon will also be in the Shadow-Cursed lands, which is where you'll also find the infernal items for Karlach. Bringing him one will help Karlach out with her physical condition. After bringing an Infernal Iron to him enough times, he'll finally be able to make it so that Karlach will be able to touch people. Afterward, all you'll have to do is rest at camp, as Karlach will be yearning for another intimate moment with you, this time going all the way. Try not to get too excited when you talk to Dammon before he creates the new upgrade so you don't miss out on the important status of Karlach's condition. Otherwise though, and as you've surely been since starting your relationship, you can remain as upfront as you'd like to be without fearing for any disapproval or negative outcome. 
+
+## KARLACH APPROVAL GUIDE
+If you are looking to befriend or romance Karlach, you will have to get her approval up. Companions are not black and white in BG3, but they have some characteristics you can consider when forming your party and making game choices.
+
+## Karlach General Personality Tips
+- Karlach is both Violent and Compassionate.
+- Though she is against evil acts, she is more than happy to choose violent actions that isn't evil.
+- Being both Violent and Compassionate makes her the most liked person by all the origin companions.
+- Karlach, Astarion and Lae'zel gains approval from acts of violence like starting fights.
+- While at the same time, Karlach, Wyll, Shadowheart and Gale gains approval from Compassionate/Heroic actions.
+- All companions, including Karlach gains approval if you defend her from people targeting her. In the confrontations with Wyll and Mizora about Karlach, choosing dialogue that tries to protect/defend Karlach will be liked by Every origin companion member.
+- Karlach is a compassionate individual who disapproves of cruel actions. Thus would clash with Astarion and Lae'zel's Cruel tendencies
+- Karlach approves of actions taken to the benefit of the Druid Grove tieflings and Heroic actions in general.
+- Karlach consistently likes respecting surrenders. Will gain disapproval consistently if you keep executing prisoners or surrenderees.
+- Karlach is distrustful of and generally hateful towards devils.
+- Karlach wants her infernal engine heart repaired which needs Infernal Iron. There are multiple pieces of Infernal Iron in Act I/ the wilderness alone so this is a way to farm approval.
+
+## ALL KARLACH ENDINGS
+
+### KARLACH BECOMES THE MIND FLAYER THAT KILLS THE NETHERBRAIN AND SURVIVES ENDING
+
+#### ENDING REQUIREMENTS AND CONDITIONS:
+- Free Orpheus
+- Entrust the Netherstones to Orpheus
+
+#### HOW TO OBTAIN ENDING:
+- Free Orpheus
+- Reject the offer of The Emperor to work together
+- Choose the dialogue options below that will prompt Karlach to do it instead of you
+
+#### ENDING DESCRIPTION:
+
+There is another known variation of how you can spare yourself from becoming a Mind Flayer, and allow Karlach to undergo Ceremorphosis, instead of you or Orpheus. This can happen with the help of Orpheus, but first, you need to free him. When the Emperor asks you to release the Netherstones to him and you choose to reject him there, he will leave the area. Then, you can proceed to help the Prince. Once the Prince is freed, he tells you about how the Netherbrain is so strong that it will require an Illithid to unleash the full potential of the Netherstones. You will be given the following choices listed below:
+
+Someone will need to turn into a mind flayer. Are you willing to do that?
+There has to be another way.
+I'm not becoming a Mind Flayer.
+I understand. If that's what it takes, I'll do it.
+This isn't an easy decision. I need a moment to consider it.
+Choosing the third option here will prompt Karlach to speak up and say that maybe you (the player) don't have to and that it should be her. Then, you will get the next choices:
+
+Why you?
+This isn't your sacrifice to make.
+Better you than me.
+Choose the first option here and Karlach will reveal that she is dying. She continues that her heart feels like a live grenade and that she could explode any minute. She goes on to tell you that you have a life to live, and she doesn't. She also wants to be the one to save the world, if there's no other way for her to go. Then, you will get the next choices:
+
+If this is what you really want, all I can say is thank you.
+No, Karlach. This is for me to do. I'll embrace the parasite- I'll evolve.
+No, neither of us is turning into a Mind Flayer. Not now.
+Choose the first one once more, and Karlach will express her willingness to do it. Then, Orpheus will commend Karlach for her sacrifice and bravery. Shortly after, Orpheus will withdraw his power for a moment and this will turn her into a Mind flayer that will eventually help you to defeat the Illithids and end the Grand Design. After her transformation, Orpheus reactivates his power once more and shields her from the Netherbrain once more.
+
+Orpheus kneels before Karlach who has completely changed, and tells her: "My people will remember you, tiefling." despite her being fully transformed into a Mind Flayer. Orpheus goes on to return to the city, follow the path of the Netherbrain, and stop the attack. Before you progress, Karlach will begin to say that she is still herself, but more. She tells you that her gear is now silent and no longer threatening to explode. 
+
+Next, you will seek the Netherbrain and fight the final battle. This will lead to you choosing to command the brain to destroy the tadpoles and itself. A good-natured ending is to command the brain to destroy the tadpoles and then itself. This ending will successfully destroy the Netherbrain and the tadpoles under its command, and the fighting below in the city will cease. The people of different races will rejoice as they are freed from the grips and terror of the Illithid Empire. Later on, you and your party will gather in the city to celebrate your win against the Illithids. Orpheus commends Karlach once more and assures her that all Githyanki will know her name and her sacrifice. 
+
+### KARLACH BECOMES THE MIND FLAYER AND YOU BETRAY HER (THE DARK URGE ENDING)
+#### ENDING REQUIREMENTS AND CONDITIONS:
+- Free Orpheus
+- Entrust the Netherstones to Orpheus
+- Betray Karlach during the final battle
+- Must have The Dark Urge origin
+
+#### HOW TO OBTAIN ENDING FOR KARLACH:
+- Free Orpheus
+- Reject the offer of The Emperor to work together
+- Choose the dialogue options below that will prompt Karlach to do it instead of you
+- As Karlach resists the Netherbrain's temptation, attack her
+- Claim the throne in Bhaal's name
+
+#### KARLACH ENDING DESCRIPTION
+
+This is an alternate version of Karlach's first ending. Just as the Absolute has weakened, Karlach will approach you and say "This is it soldier. This is what we fought for. Time to end this thing." Karlach is fighting it off with all her strength, and you see this as an opportunity to betray him. Just as the absolute tempts Karlach, you remember the destiny promised by your Father. You become enslaved, dominated, and ruined. You feel the need to seize your rightful claim to the brain and not destroy it. You see this as a way to escape the horrors of Bhaal's anguish, so you decide to Claim the Absolute in the name of Bhaal. Betray Karlach.
+
+Just as you launch to attack Karlach, she exclaims that this is all she has, but you have made up your mind and will brutally attack her. Then, Wyll expresses his disbelief as he witnesses your act. This is a bad-natured ending where you will rule the world and betray your companions.
+
+## KARLACH TIPS AND NOTES
+- Karlach wishes to get revenge on the one who sold her into infernal slavery.
+- She specifically mentions the fallen Solar current Archdevil Zariel. Zariel is the main antagonist of the DND adventure, Baldur's Gate: Descent into Avernus which also counts as a prequel to Baldur's Gate 3 as the Tiefling Refugees heading to Baldur's Gate is a direct effect of the Events of Descent into Avernus.
+- Karlach has gone through multiple design changes over the years of early access. Each update she gets bigger.
+- Previously known as an NPC but has been confirmed as an origin character and companion.
+- Anders (before his VA was altered) mentioned how Karlach lost her horn through fighting demons, hence her title 'The Demonsbane'.
+- If you kill a druid in the grove, she will not join you.
+
+# THE DARK URGE
+The Dark Urge is a special Origin in Baldur's Gate 3, it's only for custom characters and not related to any companions. Origins grant your character particular interactions and adventures during your journey. 
+"You remember nothing of your past besides that you walked a path paved with blood. As you venture on, you find yourself inescapably drawn towards unimaginable cruelties. Where do these thoughts come from?"
+
+## THE DARK URGE INFORMATION
+Background: Haunted One (unique)
+Starting equipment is determined of your selection during Character Creation.
+
+## THE DARK URGE QUESTS
+- The Urge
+
+## THE DARK URGE TIPS AND NOTES
+The Dark Urge has an impulse to maim and kill, and sometimes you can't control it.
+You gain "Split-Splatter" advantage when lobotomising Us.
+During your first interaction with Gale, Dark Urge can cut off his hand by selecting the "Fantasize about hacking off the hand." dialogue option.
+If you talk to the squirrel near the Druid Grove elevator, you will just kill it.
+If you inspired Alfira and let her stay at your camp, she will be dead at night. Scleritas Fel will appear after Alfira's death, and starts Dark Urge's personal quest The Urge.
+The Dark Urge can take advantage of Pandirna being secluded and paralyzed to murder her.
+The Dark Urge can choose to torture the bird that Nettie is curing.
+If siding with goblins and romancing Minthara, you can snap her neck after your character sleeps with her.
+When you find a Moon Lantern to keep yourself protected in the Shadow Cursed Lands, you'll realize that there's a pixie trapped inside. You can decide to crush her after she's freed.
+If you unleash your urge and kill Isobel the Cleric, the ward that protects Last Light Inn will fail. Killing everyone there and fail lots of quests.
+If you allow Shadowheart to kill Nightsong, the ward will also fail and kill Jaheira and Isobel the Cleric off-screen. This will count to satisfy the urge.
+If you fail to control your Slayer Form, you may kill your Lover.
+
+## THE DARK URGE FAQS
+
+### WHAT IS THE DARK URGE IN BALDUR'S GATE 3?
+During the Panel from Hell showcase, it was revealed that The Dark Urge is the additional origin character that players can select in the Character Creation section of the game. Unlike other Origin Characters, The Dark Urge is a fully customizable Origin avatar where players can play as whichever Race, Class, appearance, gender and overall build that they would like while maintaining the origin story of The Dark Urge. The Dark Urge origin is also not associated with any Companions in Baldur's Gate 3.
+
+the dark urge character creation baldurs gate 3 wiki guide 300px
+
+Customized "The Dark Urge" avatar selected by chat during the Panel of Hell showcase.
+
+The Dark Urge is quite unique in Baldur's Gate 3 since the sequences and interactions that are featured are unexpected and it challenges your perception of how to tackle different situations. As you choose to play the origin of The Dark Urge its history is unknown but you awaken to be someone who has dark thoughts that plague your mind and ultimately push you to commit atrocious acts throughout the journey. The choice is completely yours — will you fight what is twisting your mind to be good or will you succumb to madness and wreak chaos?
+
+### CAN I RECRUIT THE DARK URGE?
+The Origin character of "The Dark Urge" cannot be recruited as a Companion. It is exclusively selected during the Character Creation section of Baldur's Gate 3 where players customize the origin avatar and experience the path of The Dark Urge. Players can change their class, race and gender to whatever they want.
+
+### ARE THERE OTHER DARK URGE CHARACTERS?
+Yes, you can run into a character in the game that is The Dark Urge where you can interact with but as mentioned, this NPC that you'll eventually bump into cannot be recruited as a Companion.
+
+### WHAT IS THE GAMEPLAY OF THE DARK URGE?
+Upon starting your journey with the origin of The Dark Urge, the story will include a sinister voice of a narrator that speaks of the different impulses that are going on in your character's mind. Guiding the Dark Urge in their time of need is Sceleritas Fel. A vile and loyal servant, Fel lives only to see the Dark Urge return to their rightful, bloodstained path and urges them to commit some of the most lurid acts of violence.
+This unique feature alone changes the many ways of interactions, as well as cutscenes that you haven't seen and dialogues for you to choose from, exclusive items, and at length, its origin story that unfolds. As The Dark Urge, we highly recommend that players enjoy every cutscene and dialogue there is available to it.
+
+### CAN I RESIST EVIL CHOICES AS THE DARK URGE?
+Yes, the choice is completely yours if you play the origin of The Dark Urge. Unlike any other characters or even the player's customized avatar, the Dark Urge will have its own unique cutscenes and dialogue options for different scenarios, and whatever you choose will result in different outcomes. One example that was featured during the Panel from Hell showcase was: during the exploration of a crash site with Shadowheart, the player starts to loot the bodies of goblins and a cutscene triggers where the Narrator reminds you of how the sight of blood and violence gives you pleasure. You then choose if you try to push the smile away, to let that grin fall across your face, or with enough Intelligence, you try to remember the last time you stood above a corpse.
+
+the dark urge gameplay baldurs gate 3 wiki guide 300pxthe dark urge gameplay2 baldurs gate 3 wiki guide 300px
+
+Another example is when Gale reaches his hand out from a portal and asks for help, you are given unique choices such as fantasizing about cutting off the hand, and by doing so, your urges have led you to hacking off his hand. With this, you acquire Gale's severed hand which is a new branching point of interaction and scenarios that are unique and exclusive to The Dark Urge origin. As you dive into its origin, you'll learn what causes these twisted thoughts and experience the dark counterpoint of the game's main storyline.
+
+## THE BENEFIT OF PLAYING AS THE DARK URGE
+The Dark Urge opens up with unique additional cutscenes, interactions, dialogues, and results to the actions that you choose. And with The Dark Urge, you'll be thrown with evil thoughts and sinister actions that question your judgment or simply if you want to explore your darkest thoughts. Some people may find this unappealing since they prefer to project their personality and beliefs towards the character they've created but if you do play as The Dark Urge, it is possible to use these ominous actions to your advantage.
+The possibilities are endless here with the different situations and interactions you'll encounter. If you find yourself in a difficult scene, who knows, the urges and thoughts of "The Dark Urge" can save you and your team or even turn the tides in your favor or if a terrible NPC is being difficult to deal with, you have the option to be bad in return. If you are choosing this origin, it's best to analyze the different affairs and weigh the consequences that can occur.
