@@ -1,11 +1,9 @@
-__import__('pysqlite3')
 import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 import streamlit as st
-from vectorstore import query_engine
-from supabase_wrapper import log_message
 
+from supabase_wrapper import log_message
+from vectorstore import query_engine
 
 st.set_page_config(
     page_title="Baldur's Gate 3 AI Guide", page_icon="🧙‍♀️")
