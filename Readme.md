@@ -12,6 +12,8 @@ As you travel through Faerûn, bring this trusted AI guide with you for tips whe
 
 - If you're fighting a boss and not sure how to beat them, well, inquire for a hint.
 
+<img src="./assets/screenshot_1.png" width="500"/>
+
 ## Source materials
 
 - Documents are copied by hand from [Baldur's Gate III Wiki](https://baldursgate3.wiki.fextralife.com/Baldur's+Gate+3+Wiki)
