@@ -16,7 +16,7 @@ st.markdown("Made by Hai ([follow me on LinkedIn](https://www.linkedin.com/in/ha
             
 if "messages" not in st.session_state.keys(): # Initialize the chat messages history
     st.session_state.messages = [
-        {"role": "assistant", "content": "What's on your mind?"}
+        {"role": "assistant", "content": "Please only ask about quest progression, dialogue hints and companion information."}
     ]
 
 
